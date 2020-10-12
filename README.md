@@ -3,7 +3,7 @@
 
 1. Create three virtual machines and configure them inline with the below mentioned details
 
-  -Showing clients & servers with false credentials that lead BOTs/APTs & malicious insider threats to the deception platform. Credential options like RDP, SSH, web cookies, SMB, mail, web login information, browsers, FTP, memory cached credentials (LSASS), and SVN.
+  -Showing clients & servers with false credentials that lead BOTs/APTs & malicious insider threats to the deception platform. Credential options like RDP, SSH, web cookies, SMB,    mail, web login information, browsers, FTP, memory cached credentials (LSASS), and SVN.
 
   -memory credentials, Active connectors, credential lures, SMB shares lures, Browser credentials and application credential
 
