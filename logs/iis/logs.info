@@ -1,0 +1,1 @@
+%{DATE:date} %{TIME:time} %{IPORTHOST:s-ip} %{WORD:cs-method} %{STRING:cs-uri-stem} %{STRING:cs-uri-query} %{NUMBER:s-port} %{USER:cs-username} %{IPORTHOST:c-ip} %{STRING:cs(User-Agent)} %{STRING:cs(Referer)} %{NUMBER:sc-status} %{NUMBER:sc-substatus} %{NUMBER:sc-win32-status} %{NUMBER:time-taken}

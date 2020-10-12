@@ -1,0 +1,1 @@
+powershell " Get-EventLog Application | Export-Csv -LiteralPath 'C:\vol101\logs\application.csv' "

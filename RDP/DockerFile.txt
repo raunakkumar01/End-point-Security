@@ -1,0 +1,7 @@
+#escape=`
+FROM mcr.microsoft.com/windows/servercore:2004
+RUN net user /add Rafael
+RUN net user Rafael !QAZ2wsx
+RUN net localgroup "Remote Desktop Users" Rafael /add
+RUN net localgroup "Administrators" Rafael /add
+RUN cmd /k reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v TemporaryALiC /t REG_DWORD /d 1

@@ -1,0 +1,1 @@
+%{IPORTHOST:clientip} %{USER:ident} %{USER:auth} [%{HTTPDATE:timestamp}] "%{WORD:verb} %{DATA:request} HTTP/%{NUMBER:httpversion}" %{NUMBER:response} %{NUMBER:bytes} "%{STRING:referrer}" "%{STRING:agent}"

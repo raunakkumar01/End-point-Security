@@ -1,0 +1,1406 @@
+1844 21:20:24:051 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1844 21:20:24:082 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1844 21:20:24:098 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1844 21:20:24:113 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1844 21:20:24:113 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1844 21:20:24:113 debug1: Bind to port 22 on ::.
+1844 21:20:24:113 Server listening on :: port 22.
+1844 21:20:24:113 debug1: Bind to port 22 on 0.0.0.0.
+1844 21:20:24:113 Server listening on 0.0.0.0 port 22.
+1844 21:21:36:013 debug1: Forked child 708.
+1844 21:21:36:029 debug1: Forked child 972.
+708 21:21:36:122 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+708 21:21:36:138 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+708 21:21:36:138 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+972 21:21:36:138 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+708 21:21:36:154 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+708 21:21:36:154 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+708 21:21:36:154 debug1: child socket: 436
+708 21:21:36:154 debug1: child startup_pipe: 356
+972 21:21:36:154 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+972 21:21:36:154 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+972 21:21:36:154 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+972 21:21:36:154 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+972 21:21:36:154 debug1: child socket: 356
+972 21:21:36:154 debug1: child startup_pipe: 436
+708 21:21:36:224 Connection from 192.168.43.181 port 63727 on 172.28.249.112 port 22
+972 21:21:36:224 Connection from 192.168.43.181 port 63728 on 172.28.249.112 port 22
+708 21:21:36:250 Bad protocol version identification 'GET / HTTP/1.1' from 192.168.43.181 port 63727
+1844 21:21:36:623 debug1: Forked child 1492.
+1844 21:21:36:623 debug1: Forked child 1416.
+1492 21:21:36:717 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1416 21:21:36:717 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1492 21:21:36:733 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1492 21:21:36:733 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1492 21:21:36:733 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1492 21:21:36:733 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1492 21:21:36:733 debug1: child socket: 436
+1492 21:21:36:733 debug1: child startup_pipe: 312
+1492 21:21:36:748 Connection from 192.168.43.181 port 63731 on 172.28.249.112 port 22
+1492 21:21:36:748 Bad protocol version identification 'GET /favicon.ico HTTP/1.1' from 192.168.43.181 port 63731
+1416 21:21:37:748 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1416 21:21:37:764 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1416 21:21:37:764 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1416 21:21:37:764 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1416 21:21:37:764 debug1: child socket: 312
+1416 21:21:37:764 debug1: child startup_pipe: 436
+1416 21:21:37:764 Connection from 192.168.43.181 port 63732 on 172.28.249.112 port 22
+1416 21:21:40:542 Did not receive identification string from 192.168.43.181 port 63732
+972 21:22:27:119 Did not receive identification string from 192.168.43.181 port 63728
+1844 21:59:55:802 debug1: Forked child 2244.
+2244 21:59:55:895 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+2244 21:59:55:895 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+2244 21:59:55:911 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+2244 21:59:55:911 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+2244 21:59:55:911 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+2244 21:59:55:911 debug1: child socket: 432
+2244 21:59:55:911 debug1: child startup_pipe: 444
+2244 21:59:55:911 Connection from ::1 port 49192 on ::1 port 22
+2244 21:59:55:929 debug1: Client protocol version 2.0; client software version OpenSSH_7.6
+2244 21:59:55:929 debug1: match: OpenSSH_7.6 pat OpenSSH* compat 0x04000000
+2244 21:59:55:929 debug1: Local version string SSH-2.0-OpenSSH_7.6
+2244 21:59:55:929 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+2244 21:59:55:946 debug1: SSH2_MSG_KEXINIT sent
+2244 21:59:55:946 debug1: SSH2_MSG_KEXINIT received
+2244 21:59:55:946 debug1: kex: algorithm: curve25519-sha256
+2244 21:59:55:946 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+2244 21:59:55:946 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+2244 21:59:55:946 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+2244 21:59:55:946 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+2244 21:59:55:946 debug1: rekey after 134217728 blocks
+2244 21:59:55:946 debug1: SSH2_MSG_NEWKEYS sent
+2244 21:59:55:946 debug1: expecting SSH2_MSG_NEWKEYS
+2244 22:00:02:736 debug1: SSH2_MSG_NEWKEYS received
+2244 22:00:02:736 debug1: rekey after 134217728 blocks
+2244 22:00:02:736 debug1: KEX done
+2244 22:00:02:799 debug1: userauth-request for user ssh service ssh-connection method none
+2244 22:00:02:799 debug1: attempt 0 failures 0
+2244 22:00:02:877 debug1: userauth_send_banner: sent
+2244 22:00:02:909 debug1: failed to logon user: ssh domain: (null) error:1326
+2244 22:00:02:909 Failed none for ssh from ::1 port 49192 ssh2
+2244 22:00:02:909 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+2244 22:00:02:909 debug1: attempt 1 failures 0
+2244 22:00:02:909 debug1: keyboard-interactive devs 
+2244 22:00:02:909 debug1: auth2_challenge: user=ssh devs=
+2244 22:00:02:909 debug1: kbdint_alloc: devices ''
+2244 22:00:02:909 Failed keyboard-interactive for ssh from ::1 port 49192 ssh2
+2244 22:00:39:766 debug1: userauth-request for user ssh service ssh-connection method password
+2244 22:00:39:766 debug1: attempt 2 failures 1
+2244 22:00:39:847 Accepted password for ssh from ::1 port 49192 ssh2
+2244 22:00:39:871 debug1: Entering interactive session for SSH2.
+2244 22:00:39:876 debug1: server_init_dispatch
+2244 22:00:39:891 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+2244 22:00:39:891 debug1: input_session_request
+2244 22:00:39:891 debug1: channel 0: new [server-session]
+2244 22:00:39:891 debug1: session_new: session 0
+2244 22:00:39:891 debug1: session_open: channel 0
+2244 22:00:39:891 debug1: session_open: session 0: link with channel 0
+2244 22:00:39:891 debug1: server_input_channel_open: confirm session
+2244 22:00:39:891 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+2244 22:00:39:891 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+2244 22:00:39:891 debug1: session_by_channel: session 0 channel 0
+2244 22:00:39:891 debug1: session_input_channel_req: session 0 req pty-req
+2244 22:00:39:891 debug1: Allocating pty.
+2244 22:00:39:891 debug1: session_pty_req: session 0 alloc console
+2244 22:00:39:891 debug1: server_input_channel_req: channel 0 request shell reply 1
+2244 22:00:39:891 debug1: session_by_channel: session 0 channel 0
+2244 22:00:39:891 debug1: session_input_channel_req: session 0 req shell
+2244 22:00:39:891 Starting session: shell on console for ssh from ::1 port 49192 id 0
+2244 22:00:40:997 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+2244 22:00:57:548 debug1: Received SIGCHLD.
+2244 22:00:57:548 debug1: session_by_pid: pid 2156
+2244 22:00:57:548 debug1: session_exit_message: session 0 channel 0 pid 2156
+2244 22:00:57:548 debug1: session_exit_message: release channel 0
+2244 22:00:57:548 debug1: session_pty_cleanup: session 0 release console
+2244 22:00:57:565 debug1: session_by_channel: session 0 channel 0
+2244 22:00:57:565 debug1: session_close_by_channel: channel 0 child 0
+2244 22:00:57:565 Close session: user ssh from ::1 port 49192 id 0
+2244 22:00:57:565 debug1: channel 0: free: server-session, nchannels 1
+2244 22:00:57:565 Received disconnect from ::1 port 49192:11: disconnected by user
+2244 22:00:57:565 Disconnected from user ssh ::1 port 49192
+2244 22:00:57:565 debug1: do_cleanup
+1844 22:01:23:994 debug1: Forked child 3012.
+3012 22:01:24:088 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+3012 22:01:24:103 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+3012 22:01:24:103 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+3012 22:01:24:103 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+3012 22:01:24:103 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+3012 22:01:24:103 debug1: child socket: 436
+3012 22:01:24:103 debug1: child startup_pipe: 356
+3012 22:01:24:103 Connection from 192.168.43.181 port 64243 on 172.28.249.112 port 22
+3012 22:01:24:103 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+3012 22:01:24:103 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+3012 22:01:24:103 debug1: Local version string SSH-2.0-OpenSSH_7.6
+3012 22:01:24:103 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+3012 22:01:24:103 debug1: SSH2_MSG_KEXINIT sent
+3012 22:01:24:119 debug1: SSH2_MSG_KEXINIT received
+3012 22:01:24:119 debug1: kex: algorithm: curve25519-sha256
+3012 22:01:24:119 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+3012 22:01:24:119 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+3012 22:01:24:119 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+3012 22:01:24:119 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+3012 22:01:24:166 debug1: rekey after 134217728 blocks
+3012 22:01:24:166 debug1: SSH2_MSG_NEWKEYS sent
+3012 22:01:24:166 debug1: expecting SSH2_MSG_NEWKEYS
+3012 22:01:27:451 debug1: SSH2_MSG_NEWKEYS received
+3012 22:01:27:451 debug1: rekey after 134217728 blocks
+3012 22:01:27:451 debug1: KEX done
+3012 22:01:27:499 debug1: userauth-request for user ssh service ssh-connection method none
+3012 22:01:27:499 debug1: attempt 0 failures 0
+3012 22:01:27:499 debug1: userauth_send_banner: sent
+3012 22:01:27:499 debug1: failed to logon user: ssh domain: (null) error:1326
+3012 22:01:27:499 Failed none for ssh from 192.168.43.181 port 64243 ssh2
+3012 22:01:27:515 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+3012 22:01:27:515 debug1: attempt 1 failures 0
+3012 22:01:27:515 debug1: keyboard-interactive devs 
+3012 22:01:27:515 debug1: auth2_challenge: user=ssh devs=
+3012 22:01:27:515 debug1: kbdint_alloc: devices ''
+3012 22:01:27:515 Failed keyboard-interactive for ssh from 192.168.43.181 port 64243 ssh2
+3012 22:01:32:125 debug1: userauth-request for user ssh service ssh-connection method password
+3012 22:01:32:125 debug1: attempt 2 failures 1
+3012 22:01:32:410 Accepted password for ssh from 192.168.43.181 port 64243 ssh2
+3012 22:01:32:410 debug1: Entering interactive session for SSH2.
+3012 22:01:32:410 debug1: server_init_dispatch
+3012 22:01:32:469 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+3012 22:01:32:469 debug1: input_session_request
+3012 22:01:32:469 debug1: channel 0: new [server-session]
+3012 22:01:32:469 debug1: session_new: session 0
+3012 22:01:32:469 debug1: session_open: channel 0
+3012 22:01:32:469 debug1: session_open: session 0: link with channel 0
+3012 22:01:32:469 debug1: server_input_channel_open: confirm session
+3012 22:01:32:469 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+3012 22:01:32:469 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+3012 22:01:32:469 debug1: session_by_channel: session 0 channel 0
+3012 22:01:32:469 debug1: session_input_channel_req: session 0 req pty-req
+3012 22:01:32:469 debug1: Allocating pty.
+3012 22:01:32:469 debug1: session_pty_req: session 0 alloc console
+3012 22:01:32:469 debug1: server_input_channel_req: channel 0 request shell reply 1
+3012 22:01:32:469 debug1: session_by_channel: session 0 channel 0
+3012 22:01:32:469 debug1: session_input_channel_req: session 0 req shell
+3012 22:01:32:469 Starting session: shell on console for ssh from 192.168.43.181 port 64243 id 0
+3012 22:01:32:598 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+3012 22:01:32:863 debug1: server_input_channel_req: channel 0 request window-change reply 0
+3012 22:01:32:863 debug1: session_by_channel: session 0 channel 0
+3012 22:01:32:863 debug1: session_input_channel_req: session 0 req window-change
+3012 22:01:32:863 debug1: server_input_channel_req: channel 0 request window-change reply 0
+3012 22:01:32:863 debug1: session_by_channel: session 0 channel 0
+3012 22:01:32:863 debug1: session_input_channel_req: session 0 req window-change
+3012 22:10:33:199 debug1: Received SIGCHLD.
+3012 22:10:33:199 debug1: session_by_pid: pid 2920
+3012 22:10:33:199 debug1: session_exit_message: session 0 channel 0 pid 2920
+3012 22:10:33:199 debug1: session_exit_message: release channel 0
+3012 22:10:33:199 debug1: session_pty_cleanup: session 0 release console
+3012 22:10:33:370 debug1: session_by_channel: session 0 channel 0
+3012 22:10:33:370 debug1: session_close_by_channel: channel 0 child 0
+3012 22:10:33:370 Close session: user ssh from 192.168.43.181 port 64243 id 0
+3012 22:10:33:370 debug1: channel 0: free: server-session, nchannels 1
+3012 22:10:33:370 Received disconnect from 192.168.43.181 port 64243:11: disconnected by user
+3012 22:10:33:370 Disconnected from user ssh 192.168.43.181 port 64243
+3012 22:10:33:370 debug1: do_cleanup
+1844 22:10:48:883 debug1: Forked child 2488.
+2488 22:10:48:977 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+2488 22:10:48:993 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+2488 22:10:48:993 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+2488 22:10:48:993 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+2488 22:10:48:993 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+2488 22:10:48:993 debug1: child socket: 356
+2488 22:10:48:993 debug1: child startup_pipe: 432
+2488 22:10:48:993 Connection from 192.168.43.181 port 64341 on 172.28.249.112 port 22
+2488 22:10:48:993 debug1: Client protocol version 2.0; client software version 8.43 FlowSsh: Bitvise SSH Client (Tunnelier) 8.43 - BvSsh
+2488 22:10:48:993 debug1: no match: 8.43 FlowSsh: Bitvise SSH Client (Tunnelier) 8.43 - BvSsh
+2488 22:10:48:993 debug1: Local version string SSH-2.0-OpenSSH_7.6
+2488 22:10:48:993 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+2488 22:10:48:993 debug1: SSH2_MSG_KEXINIT sent
+2488 22:10:49:193 debug1: SSH2_MSG_KEXINIT received
+2488 22:10:49:193 debug1: kex: algorithm: curve25519-sha256
+2488 22:10:49:193 debug1: kex: host key algorithm: rsa-sha2-512
+2488 22:10:49:256 debug1: kex: client->server cipher: aes256-ctr MAC: hmac-sha2-256 compression: none
+2488 22:10:49:256 debug1: kex: server->client cipher: aes256-ctr MAC: hmac-sha2-256 compression: none
+2488 22:10:49:256 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+2488 22:10:49:318 debug1: rekey after 4294967296 blocks
+2488 22:10:49:318 debug1: SSH2_MSG_NEWKEYS sent
+2488 22:10:49:318 debug1: expecting SSH2_MSG_NEWKEYS
+2488 22:10:53:547 debug1: SSH2_MSG_NEWKEYS received
+2488 22:10:53:547 debug1: rekey after 4294967296 blocks
+2488 22:10:53:547 debug1: KEX done
+2488 22:10:53:563 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+2488 22:10:53:563 debug1: attempt 0 failures 0
+2488 22:10:53:563 debug1: userauth_send_banner: sent
+2488 22:10:53:563 debug1: keyboard-interactive devs 
+2488 22:10:53:563 debug1: auth2_challenge: user=ssh devs=
+2488 22:10:53:563 debug1: kbdint_alloc: devices ''
+2488 22:10:53:563 Failed keyboard-interactive for ssh from 192.168.43.181 port 64341 ssh2
+2488 22:10:58:878 error: Received disconnect from 192.168.43.181 port 64341:13: User request
+2488 22:10:58:878 Disconnected from authenticating user ssh 192.168.43.181 port 64341
+2488 22:10:58:878 debug1: do_cleanup
+1844 22:22:48:124 Received signal 8; terminating.
+1668 11:48:36:857 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1668 11:48:36:951 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1668 11:48:36:966 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1668 11:48:36:966 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1668 11:48:36:966 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1668 11:48:36:966 debug1: Bind to port 22 on ::.
+1668 11:48:36:966 Server listening on :: port 22.
+1668 11:48:36:966 debug1: Bind to port 22 on 0.0.0.0.
+1668 11:48:36:966 Server listening on 0.0.0.0 port 22.
+1668 16:45:12:910 Received signal 8; terminating.
+1484 10:50:38:884 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1484 10:50:39:122 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1484 10:50:39:155 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1484 10:50:39:212 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1484 10:50:39:212 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1484 10:50:39:212 debug1: Bind to port 22 on ::.
+1484 10:50:39:212 Server listening on :: port 22.
+1484 10:50:39:212 debug1: Bind to port 22 on 0.0.0.0.
+1484 10:50:39:212 Server listening on 0.0.0.0 port 22.
+1484 10:53:13:485 debug1: Forked child 1556.
+1556 10:53:13:642 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1556 10:53:13:657 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1556 10:53:13:657 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1556 10:53:13:657 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1556 10:53:13:657 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1556 10:53:13:657 debug1: child socket: 440
+1556 10:53:13:657 debug1: child startup_pipe: 416
+1556 10:53:13:720 Connection from 192.168.43.203 port 49424 on 172.27.221.185 port 22
+1556 10:53:13:892 Bad protocol version identification 'GET / HTTP/1.1' from 192.168.43.203 port 49424
+1484 11:28:32:739 debug1: Forked child 344.
+344 11:28:32:880 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+344 11:28:32:896 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+344 11:28:32:896 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+344 11:28:32:896 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+344 11:28:32:896 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+344 11:28:32:911 debug1: child socket: 416
+344 11:28:32:911 debug1: child startup_pipe: 444
+344 11:28:32:911 Connection from 172.27.208.1 port 56020 on 172.27.221.185 port 22
+344 11:28:32:931 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+344 11:28:32:931 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+344 11:28:32:931 debug1: Local version string SSH-2.0-OpenSSH_7.6
+344 11:28:32:958 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+344 11:28:32:974 debug1: SSH2_MSG_KEXINIT sent
+344 11:28:32:989 debug1: SSH2_MSG_KEXINIT received
+344 11:28:32:989 debug1: kex: algorithm: curve25519-sha256
+344 11:28:32:989 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+344 11:28:32:989 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+344 11:28:32:989 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+344 11:28:32:989 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+344 11:28:33:114 debug1: rekey after 134217728 blocks
+344 11:28:33:114 debug1: SSH2_MSG_NEWKEYS sent
+344 11:28:33:114 debug1: expecting SSH2_MSG_NEWKEYS
+344 11:28:37:411 debug1: SSH2_MSG_NEWKEYS received
+344 11:28:37:411 debug1: rekey after 134217728 blocks
+344 11:28:37:411 debug1: KEX done
+344 11:28:37:459 debug1: userauth-request for user windows service ssh-connection method none
+344 11:28:37:459 debug1: attempt 0 failures 0
+344 11:28:37:480 error: DsGetDcNameW() failed with error: 1355 \n
+344 11:28:37:494 Invalid user windows from 172.27.208.1 port 56020
+344 11:28:37:538 debug1: userauth_send_banner: sent
+344 11:28:37:570 debug1: failed to logon user: NOUSER domain: (null) error:1326
+344 11:28:37:570 Failed none for invalid user windows from 172.27.208.1 port 56020 ssh2
+344 11:28:37:584 debug1: userauth-request for user windows service ssh-connection method keyboard-interactive
+344 11:28:37:584 debug1: attempt 1 failures 0
+344 11:28:37:584 debug1: keyboard-interactive devs 
+344 11:28:37:584 debug1: auth2_challenge: user=windows devs=
+344 11:28:37:584 debug1: kbdint_alloc: devices ''
+344 11:28:37:584 Failed keyboard-interactive for invalid user windows from 172.27.208.1 port 56020 ssh2
+344 11:29:09:349 debug1: userauth-request for user windows service ssh-connection method password
+344 11:29:09:349 debug1: attempt 2 failures 1
+344 11:29:09:349 debug1: failed to logon user: NOUSER domain: (null) error:1326
+344 11:29:09:349 Failed password for invalid user windows from 172.27.208.1 port 56020 ssh2
+344 11:29:36:826 Connection reset by invalid user windows 172.27.208.1 port 56020
+344 11:29:36:842 debug1: do_cleanup
+1484 11:29:43:466 debug1: Forked child 112.
+112 11:29:43:560 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+112 11:29:43:560 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+112 11:29:43:575 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+112 11:29:43:575 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+112 11:29:43:575 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+112 11:29:43:575 debug1: child socket: 444
+112 11:29:43:575 debug1: child startup_pipe: 352
+112 11:29:43:575 Connection from 172.27.208.1 port 56021 on 172.27.221.185 port 22
+112 11:29:43:575 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+112 11:29:43:575 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+112 11:29:43:575 debug1: Local version string SSH-2.0-OpenSSH_7.6
+112 11:29:43:575 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+112 11:29:43:575 debug1: SSH2_MSG_KEXINIT sent
+112 11:29:43:575 debug1: SSH2_MSG_KEXINIT received
+112 11:29:43:575 debug1: kex: algorithm: curve25519-sha256
+112 11:29:43:575 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+112 11:29:43:575 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+112 11:29:43:575 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+112 11:29:43:575 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+112 11:29:43:591 debug1: rekey after 134217728 blocks
+112 11:29:43:591 debug1: SSH2_MSG_NEWKEYS sent
+112 11:29:43:591 debug1: expecting SSH2_MSG_NEWKEYS
+112 11:29:43:607 debug1: SSH2_MSG_NEWKEYS received
+112 11:29:43:607 debug1: rekey after 134217728 blocks
+112 11:29:43:607 debug1: KEX done
+112 11:29:43:653 debug1: userauth-request for user user service ssh-connection method none
+112 11:29:43:653 debug1: attempt 0 failures 0
+112 11:29:43:653 error: DsGetDcNameW() failed with error: 1355 \n
+112 11:29:43:653 Invalid user user from 172.27.208.1 port 56021
+112 11:29:43:653 debug1: userauth_send_banner: sent
+112 11:29:43:653 debug1: failed to logon user: NOUSER domain: (null) error:1326
+112 11:29:43:653 Failed none for invalid user user from 172.27.208.1 port 56021 ssh2
+112 11:29:43:669 debug1: userauth-request for user user service ssh-connection method keyboard-interactive
+112 11:29:43:669 debug1: attempt 1 failures 0
+112 11:29:43:669 debug1: keyboard-interactive devs 
+112 11:29:43:669 debug1: auth2_challenge: user=user devs=
+112 11:29:43:669 debug1: kbdint_alloc: devices ''
+112 11:29:43:669 Failed keyboard-interactive for invalid user user from 172.27.208.1 port 56021 ssh2
+112 11:29:50:524 debug1: userauth-request for user user service ssh-connection method password
+112 11:29:50:524 debug1: attempt 2 failures 1
+112 11:29:50:524 debug1: failed to logon user: NOUSER domain: (null) error:1326
+112 11:29:50:524 Failed password for invalid user user from 172.27.208.1 port 56021 ssh2
+112 11:30:01:249 debug1: userauth-request for user user service ssh-connection method password
+112 11:30:01:249 debug1: attempt 3 failures 2
+112 11:30:01:249 debug1: failed to logon user: NOUSER domain: (null) error:1326
+112 11:30:01:249 Failed password for invalid user user from 172.27.208.1 port 56021 ssh2
+112 11:30:37:091 Connection reset by invalid user user 172.27.208.1 port 56021
+112 11:30:37:091 debug1: do_cleanup
+1484 11:30:40:414 debug1: Forked child 1272.
+1272 11:30:40:602 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1272 11:30:40:617 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1272 11:30:40:617 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1272 11:30:40:617 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1272 11:30:40:617 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1272 11:30:40:617 debug1: child socket: 352
+1272 11:30:40:617 debug1: child startup_pipe: 448
+1272 11:30:40:617 Connection from 172.19.112.1 port 56023 on 172.27.221.185 port 22
+1272 11:30:40:617 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+1272 11:30:40:617 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+1272 11:30:40:617 debug1: Local version string SSH-2.0-OpenSSH_7.6
+1272 11:30:40:633 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+1272 11:30:40:633 debug1: SSH2_MSG_KEXINIT sent
+1272 11:30:40:633 debug1: SSH2_MSG_KEXINIT received
+1272 11:30:40:633 debug1: kex: algorithm: curve25519-sha256
+1272 11:30:40:633 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+1272 11:30:40:633 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1272 11:30:40:633 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1272 11:30:40:633 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+1272 11:30:40:680 debug1: rekey after 134217728 blocks
+1272 11:30:40:680 debug1: SSH2_MSG_NEWKEYS sent
+1272 11:30:40:680 debug1: expecting SSH2_MSG_NEWKEYS
+1272 11:30:40:696 debug1: SSH2_MSG_NEWKEYS received
+1272 11:30:40:696 debug1: rekey after 134217728 blocks
+1272 11:30:40:696 debug1: KEX done
+1272 11:30:40:759 debug1: userauth-request for user ssh service ssh-connection method none
+1272 11:30:40:759 debug1: attempt 0 failures 0
+1272 11:30:40:790 debug1: userauth_send_banner: sent
+1272 11:30:40:806 debug1: failed to logon user: ssh domain: (null) error:1326
+1272 11:30:40:806 Failed none for ssh from 172.19.112.1 port 56023 ssh2
+1272 11:30:40:806 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+1272 11:30:40:806 debug1: attempt 1 failures 0
+1272 11:30:40:806 debug1: keyboard-interactive devs 
+1272 11:30:40:806 debug1: auth2_challenge: user=ssh devs=
+1272 11:30:40:806 debug1: kbdint_alloc: devices ''
+1272 11:30:40:806 Failed keyboard-interactive for ssh from 172.19.112.1 port 56023 ssh2
+1272 11:30:54:378 debug1: userauth-request for user ssh service ssh-connection method password
+1272 11:30:54:378 debug1: attempt 2 failures 1
+1272 11:30:54:472 Accepted password for ssh from 172.19.112.1 port 56023 ssh2
+1272 11:30:54:472 debug1: Entering interactive session for SSH2.
+1272 11:30:54:472 debug1: server_init_dispatch
+1272 11:30:54:497 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+1272 11:30:54:497 debug1: input_session_request
+1272 11:30:54:497 debug1: channel 0: new [server-session]
+1272 11:30:54:497 debug1: session_new: session 0
+1272 11:30:54:497 debug1: session_open: channel 0
+1272 11:30:54:497 debug1: session_open: session 0: link with channel 0
+1272 11:30:54:497 debug1: server_input_channel_open: confirm session
+1272 11:30:54:497 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+1272 11:30:54:497 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+1272 11:30:54:497 debug1: session_by_channel: session 0 channel 0
+1272 11:30:54:497 debug1: session_input_channel_req: session 0 req pty-req
+1272 11:30:54:497 debug1: Allocating pty.
+1272 11:30:54:497 debug1: session_pty_req: session 0 alloc console
+1272 11:30:54:497 debug1: server_input_channel_req: channel 0 request shell reply 1
+1272 11:30:54:497 debug1: session_by_channel: session 0 channel 0
+1272 11:30:54:497 debug1: session_input_channel_req: session 0 req shell
+1272 11:30:54:497 Starting session: shell on console for ssh from 172.19.112.1 port 56023 id 0
+1272 11:30:54:795 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+1272 11:30:54:857 debug1: server_input_channel_req: channel 0 request window-change reply 0
+1272 11:30:54:857 debug1: session_by_channel: session 0 channel 0
+1272 11:30:54:857 debug1: session_input_channel_req: session 0 req window-change
+1272 11:30:54:904 debug1: server_input_channel_req: channel 0 request window-change reply 0
+1272 11:30:54:904 debug1: session_by_channel: session 0 channel 0
+1272 11:30:54:904 debug1: session_input_channel_req: session 0 req window-change
+1272 11:43:07:603 debug1: Received SIGCHLD.
+1272 11:43:07:603 debug1: session_by_pid: pid 1832
+1272 11:43:07:603 debug1: session_exit_message: session 0 channel 0 pid 1832
+1272 11:43:07:603 debug1: session_exit_message: release channel 0
+1272 11:43:07:603 debug1: session_pty_cleanup: session 0 release console
+1272 11:43:07:634 debug1: session_by_channel: session 0 channel 0
+1272 11:43:07:634 debug1: session_close_by_channel: channel 0 child 0
+1272 11:43:07:634 Close session: user ssh from 172.19.112.1 port 56023 id 0
+1272 11:43:07:634 debug1: channel 0: free: server-session, nchannels 1
+1272 11:43:07:634 Received disconnect from 172.19.112.1 port 56023:11: disconnected by user
+1272 11:43:07:634 Disconnected from user ssh 172.19.112.1 port 56023
+1272 11:43:07:634 debug1: do_cleanup
+1484 12:05:26:499 debug1: Forked child 760.
+760 12:05:26:702 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+760 12:05:26:717 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+760 12:05:26:717 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+760 12:05:26:717 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+760 12:05:26:717 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+760 12:05:26:717 debug1: child socket: 448
+760 12:05:26:717 debug1: child startup_pipe: 308
+760 12:05:26:717 Connection from 172.27.208.1 port 56031 on 172.27.221.185 port 22
+760 12:05:26:717 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+760 12:05:26:717 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+760 12:05:26:717 debug1: Local version string SSH-2.0-OpenSSH_7.6
+760 12:05:26:717 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+760 12:05:26:717 debug1: SSH2_MSG_KEXINIT sent
+760 12:05:26:733 debug1: SSH2_MSG_KEXINIT received
+760 12:05:26:733 debug1: kex: algorithm: curve25519-sha256
+760 12:05:26:733 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+760 12:05:26:733 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+760 12:05:26:733 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+760 12:05:26:733 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+760 12:05:26:733 debug1: rekey after 134217728 blocks
+760 12:05:26:733 debug1: SSH2_MSG_NEWKEYS sent
+760 12:05:26:733 debug1: expecting SSH2_MSG_NEWKEYS
+760 12:05:26:749 debug1: SSH2_MSG_NEWKEYS received
+760 12:05:26:749 debug1: rekey after 134217728 blocks
+760 12:05:26:749 debug1: KEX done
+760 12:05:26:796 debug1: userauth-request for user ssh service ssh-connection method none
+760 12:05:26:796 debug1: attempt 0 failures 0
+760 12:05:26:796 debug1: userauth_send_banner: sent
+760 12:05:26:796 debug1: failed to logon user: ssh domain: (null) error:1326
+760 12:05:26:796 Failed none for ssh from 172.27.208.1 port 56031 ssh2
+760 12:05:26:811 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+760 12:05:26:811 debug1: attempt 1 failures 0
+760 12:05:26:811 debug1: keyboard-interactive devs 
+760 12:05:26:811 debug1: auth2_challenge: user=ssh devs=
+760 12:05:26:811 debug1: kbdint_alloc: devices ''
+760 12:05:26:811 Failed keyboard-interactive for ssh from 172.27.208.1 port 56031 ssh2
+760 12:05:34:797 debug1: userauth-request for user ssh service ssh-connection method password
+760 12:05:34:797 debug1: attempt 2 failures 1
+760 12:05:34:797 Accepted password for ssh from 172.27.208.1 port 56031 ssh2
+760 12:05:34:797 debug1: Entering interactive session for SSH2.
+760 12:05:34:797 debug1: server_init_dispatch
+760 12:05:34:813 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+760 12:05:34:813 debug1: input_session_request
+760 12:05:34:813 debug1: channel 0: new [server-session]
+760 12:05:34:813 debug1: session_new: session 0
+760 12:05:34:813 debug1: session_open: channel 0
+760 12:05:34:813 debug1: session_open: session 0: link with channel 0
+760 12:05:34:813 debug1: server_input_channel_open: confirm session
+760 12:05:34:813 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+760 12:05:34:859 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+760 12:05:34:859 debug1: session_by_channel: session 0 channel 0
+760 12:05:34:859 debug1: session_input_channel_req: session 0 req pty-req
+760 12:05:34:859 debug1: Allocating pty.
+760 12:05:34:859 debug1: session_pty_req: session 0 alloc console
+760 12:05:34:859 debug1: server_input_channel_req: channel 0 request shell reply 1
+760 12:05:34:859 debug1: session_by_channel: session 0 channel 0
+760 12:05:34:859 debug1: session_input_channel_req: session 0 req shell
+760 12:05:34:859 Starting session: shell on console for ssh from 172.27.208.1 port 56031 id 0
+760 12:05:35:031 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+760 12:05:35:031 debug1: server_input_channel_req: channel 0 request window-change reply 0
+760 12:05:35:031 debug1: session_by_channel: session 0 channel 0
+760 12:05:35:031 debug1: session_input_channel_req: session 0 req window-change
+760 12:05:35:078 debug1: server_input_channel_req: channel 0 request window-change reply 0
+760 12:05:35:078 debug1: session_by_channel: session 0 channel 0
+760 12:05:35:078 debug1: session_input_channel_req: session 0 req window-change
+760 12:05:42:738 debug1: Received SIGCHLD.
+760 12:05:42:738 debug1: session_by_pid: pid 1720
+760 12:05:42:738 debug1: session_exit_message: session 0 channel 0 pid 1720
+760 12:05:42:738 debug1: session_exit_message: release channel 0
+760 12:05:42:738 debug1: session_pty_cleanup: session 0 release console
+760 12:05:42:753 debug1: session_by_channel: session 0 channel 0
+760 12:05:42:753 debug1: session_close_by_channel: channel 0 child 0
+760 12:05:42:753 Close session: user ssh from 172.27.208.1 port 56031 id 0
+760 12:05:42:753 debug1: channel 0: free: server-session, nchannels 1
+760 12:05:42:753 Received disconnect from 172.27.208.1 port 56031:11: disconnected by user
+760 12:05:42:753 Disconnected from user ssh 172.27.208.1 port 56031
+760 12:05:42:753 debug1: do_cleanup
+1484 12:06:18:597 debug1: Forked child 2020.
+2020 12:06:18:675 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+2020 12:06:18:691 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+2020 12:06:18:691 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+2020 12:06:18:691 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+2020 12:06:18:706 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+2020 12:06:18:706 debug1: child socket: 308
+2020 12:06:18:706 debug1: child startup_pipe: 416
+2020 12:06:18:706 Connection from 172.27.208.1 port 56032 on 172.27.221.185 port 22
+2020 12:06:18:706 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+2020 12:06:18:706 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+2020 12:06:18:706 debug1: Local version string SSH-2.0-OpenSSH_7.6
+2020 12:06:18:706 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+2020 12:06:18:706 debug1: SSH2_MSG_KEXINIT sent
+2020 12:06:18:706 debug1: SSH2_MSG_KEXINIT received
+2020 12:06:18:706 debug1: kex: algorithm: curve25519-sha256
+2020 12:06:18:706 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+2020 12:06:18:706 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+2020 12:06:18:706 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+2020 12:06:18:706 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+2020 12:06:18:722 debug1: rekey after 134217728 blocks
+2020 12:06:18:722 debug1: SSH2_MSG_NEWKEYS sent
+2020 12:06:18:722 debug1: expecting SSH2_MSG_NEWKEYS
+2020 12:06:18:722 debug1: SSH2_MSG_NEWKEYS received
+2020 12:06:18:722 debug1: rekey after 134217728 blocks
+2020 12:06:18:722 debug1: KEX done
+2020 12:06:18:785 debug1: userauth-request for user ssh service ssh-connection method none
+2020 12:06:18:785 debug1: attempt 0 failures 0
+2020 12:06:18:785 debug1: userauth_send_banner: sent
+2020 12:06:18:785 debug1: failed to logon user: ssh domain: (null) error:1326
+2020 12:06:18:785 Failed none for ssh from 172.27.208.1 port 56032 ssh2
+2020 12:06:18:801 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+2020 12:06:18:801 debug1: attempt 1 failures 0
+2020 12:06:18:801 debug1: keyboard-interactive devs 
+2020 12:06:18:801 debug1: auth2_challenge: user=ssh devs=
+2020 12:06:18:801 debug1: kbdint_alloc: devices ''
+2020 12:06:18:801 Failed keyboard-interactive for ssh from 172.27.208.1 port 56032 ssh2
+2020 12:06:25:159 debug1: userauth-request for user ssh service ssh-connection method password
+2020 12:06:25:159 debug1: attempt 2 failures 1
+2020 12:06:25:159 Accepted password for ssh from 172.27.208.1 port 56032 ssh2
+2020 12:06:25:159 debug1: Entering interactive session for SSH2.
+2020 12:06:25:159 debug1: server_init_dispatch
+2020 12:06:25:159 debug1: server_input_channel_open: ctype session rchan 0 win 2097152 max 32768
+2020 12:06:25:159 debug1: input_session_request
+2020 12:06:25:159 debug1: channel 0: new [server-session]
+2020 12:06:25:159 debug1: session_new: session 0
+2020 12:06:25:159 debug1: session_open: channel 0
+2020 12:06:25:159 debug1: session_open: session 0: link with channel 0
+2020 12:06:25:159 debug1: server_input_channel_open: confirm session
+2020 12:06:25:159 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+2020 12:06:25:206 debug1: server_input_channel_req: channel 0 request exec reply 1
+2020 12:06:25:206 debug1: session_by_channel: session 0 channel 0
+2020 12:06:25:206 debug1: session_input_channel_req: session 0 req exec
+2020 12:06:25:206 Starting session: command for ssh from 172.27.208.1 port 56032 id 0
+2020 12:06:25:347 debug1: Executing command: C:\\OpenSSH-Win64\\scp -f C:/vol101/test.txt
+2020 12:06:25:472 debug1: Received SIGCHLD.
+2020 12:06:25:472 debug1: session_by_pid: pid 1148
+2020 12:06:25:472 debug1: session_exit_message: session 0 channel 0 pid 1148
+2020 12:06:25:472 debug1: session_exit_message: release channel 0
+2020 12:06:25:472 debug1: session_by_channel: session 0 channel 0
+2020 12:06:25:472 debug1: session_close_by_channel: channel 0 child 0
+2020 12:06:25:472 Close session: user ssh from 172.27.208.1 port 56032 id 0
+2020 12:06:25:472 debug1: channel 0: free: server-session, nchannels 1
+2020 12:06:25:472 Read error from remote host 172.27.208.1 port 56032: Unknown error
+2020 12:06:25:472 debug1: do_cleanup
+1484 12:19:01:003 debug1: Forked child 1344.
+1344 12:19:01:111 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1344 12:19:01:111 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1344 12:19:01:126 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1344 12:19:01:126 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1344 12:19:01:126 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1344 12:19:01:126 debug1: child socket: 416
+1344 12:19:01:126 debug1: child startup_pipe: 352
+1344 12:19:01:126 Connection from 172.27.208.1 port 56033 on 172.27.221.185 port 22
+1344 12:19:01:126 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+1344 12:19:01:126 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+1344 12:19:01:126 debug1: Local version string SSH-2.0-OpenSSH_7.6
+1344 12:19:01:126 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+1344 12:19:01:126 debug1: SSH2_MSG_KEXINIT sent
+1344 12:19:01:142 debug1: SSH2_MSG_KEXINIT received
+1344 12:19:01:142 debug1: kex: algorithm: curve25519-sha256
+1344 12:19:01:142 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+1344 12:19:01:142 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1344 12:19:01:142 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1344 12:19:01:142 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+1344 12:19:01:142 debug1: rekey after 134217728 blocks
+1344 12:19:01:142 debug1: SSH2_MSG_NEWKEYS sent
+1344 12:19:01:142 debug1: expecting SSH2_MSG_NEWKEYS
+1344 12:19:01:157 debug1: SSH2_MSG_NEWKEYS received
+1344 12:19:01:157 debug1: rekey after 134217728 blocks
+1344 12:19:01:157 debug1: KEX done
+1344 12:19:01:204 debug1: userauth-request for user ssh service ssh-connection method none
+1344 12:19:01:204 debug1: attempt 0 failures 0
+1344 12:19:01:204 debug1: userauth_send_banner: sent
+1344 12:19:01:204 debug1: failed to logon user: ssh domain: (null) error:1326
+1344 12:19:01:204 Failed none for ssh from 172.27.208.1 port 56033 ssh2
+1344 12:19:01:219 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+1344 12:19:01:219 debug1: attempt 1 failures 0
+1344 12:19:01:219 debug1: keyboard-interactive devs 
+1344 12:19:01:219 debug1: auth2_challenge: user=ssh devs=
+1344 12:19:01:219 debug1: kbdint_alloc: devices ''
+1344 12:19:01:219 Failed keyboard-interactive for ssh from 172.27.208.1 port 56033 ssh2
+1344 12:19:05:723 debug1: userauth-request for user ssh service ssh-connection method password
+1344 12:19:05:723 debug1: attempt 2 failures 1
+1344 12:19:05:723 Accepted password for ssh from 172.27.208.1 port 56033 ssh2
+1344 12:19:05:723 debug1: Entering interactive session for SSH2.
+1344 12:19:05:723 debug1: server_init_dispatch
+1344 12:19:05:738 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+1344 12:19:05:738 debug1: input_session_request
+1344 12:19:05:738 debug1: channel 0: new [server-session]
+1344 12:19:05:738 debug1: session_new: session 0
+1344 12:19:05:738 debug1: session_open: channel 0
+1344 12:19:05:738 debug1: session_open: session 0: link with channel 0
+1344 12:19:05:738 debug1: server_input_channel_open: confirm session
+1344 12:19:05:738 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+1344 12:19:05:785 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+1344 12:19:05:785 debug1: session_by_channel: session 0 channel 0
+1344 12:19:05:785 debug1: session_input_channel_req: session 0 req pty-req
+1344 12:19:05:785 debug1: Allocating pty.
+1344 12:19:05:785 debug1: session_pty_req: session 0 alloc console
+1344 12:19:05:785 debug1: server_input_channel_req: channel 0 request shell reply 1
+1344 12:19:05:785 debug1: session_by_channel: session 0 channel 0
+1344 12:19:05:785 debug1: session_input_channel_req: session 0 req shell
+1344 12:19:05:785 Starting session: shell on console for ssh from 172.27.208.1 port 56033 id 0
+1344 12:19:05:926 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+1344 12:19:05:926 debug1: server_input_channel_req: channel 0 request window-change reply 0
+1344 12:19:05:926 debug1: session_by_channel: session 0 channel 0
+1344 12:19:05:926 debug1: session_input_channel_req: session 0 req window-change
+1344 12:19:05:942 debug1: server_input_channel_req: channel 0 request window-change reply 0
+1344 12:19:05:942 debug1: session_by_channel: session 0 channel 0
+1344 12:19:05:942 debug1: session_input_channel_req: session 0 req window-change
+1344 12:22:21:987 debug1: Received SIGCHLD.
+1344 12:22:21:987 debug1: session_by_pid: pid 1800
+1344 12:22:21:987 debug1: session_exit_message: session 0 channel 0 pid 1800
+1344 12:22:21:987 debug1: session_exit_message: release channel 0
+1344 12:22:21:987 debug1: session_pty_cleanup: session 0 release console
+1344 12:22:22:003 debug1: session_by_channel: session 0 channel 0
+1344 12:22:22:003 debug1: session_close_by_channel: channel 0 child 0
+1344 12:22:22:003 Close session: user ssh from 172.27.208.1 port 56033 id 0
+1344 12:22:22:003 debug1: channel 0: free: server-session, nchannels 1
+1344 12:22:22:003 Received disconnect from 172.27.208.1 port 56033:11: disconnected by user
+1344 12:22:22:003 Disconnected from user ssh 172.27.208.1 port 56033
+1344 12:22:22:003 debug1: do_cleanup
+1532 17:29:38:308 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1532 17:29:38:795 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1532 17:29:39:038 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1532 17:29:39:229 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1532 17:29:39:229 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1532 17:29:39:245 debug1: Bind to port 22 on ::.
+1532 17:29:39:245 Server listening on :: port 22.
+1532 17:29:39:245 debug1: Bind to port 22 on 0.0.0.0.
+1532 17:29:39:245 Server listening on 0.0.0.0 port 22.
+1532 17:52:13:276 debug1: Forked child 1780.
+1780 17:52:13:463 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1780 17:52:13:463 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1780 17:52:13:479 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1780 17:52:13:479 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1780 17:52:13:479 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1780 17:52:13:479 debug1: child socket: 444
+1780 17:52:13:479 debug1: child startup_pipe: 448
+1780 17:52:13:495 Connection from 192.168.43.203 port 52591 on 172.24.247.46 port 22
+1780 17:52:13:495 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+1780 17:52:13:495 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+1780 17:52:13:495 debug1: Local version string SSH-2.0-OpenSSH_7.6
+1780 17:52:13:510 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+1780 17:52:13:510 debug1: SSH2_MSG_KEXINIT sent
+1780 17:52:13:510 debug1: SSH2_MSG_KEXINIT received
+1780 17:52:13:510 debug1: kex: algorithm: curve25519-sha256
+1780 17:52:13:510 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+1780 17:52:13:510 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1780 17:52:13:510 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1780 17:52:13:510 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+1780 17:52:13:590 debug1: rekey after 134217728 blocks
+1780 17:52:13:590 debug1: SSH2_MSG_NEWKEYS sent
+1780 17:52:13:590 debug1: expecting SSH2_MSG_NEWKEYS
+1780 17:52:13:605 debug1: SSH2_MSG_NEWKEYS received
+1780 17:52:13:605 debug1: rekey after 134217728 blocks
+1780 17:52:13:605 debug1: KEX done
+1780 17:52:13:656 debug1: userauth-request for user ssh service ssh-connection method none
+1780 17:52:13:656 debug1: attempt 0 failures 0
+1780 17:52:13:719 debug1: userauth_send_banner: sent
+1780 17:52:13:735 debug1: failed to logon user: ssh domain: (null) error:1326
+1780 17:52:13:751 Failed none for ssh from 192.168.43.203 port 52591 ssh2
+1780 17:52:13:751 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+1780 17:52:13:751 debug1: attempt 1 failures 0
+1780 17:52:13:751 debug1: keyboard-interactive devs 
+1780 17:52:13:751 debug1: auth2_challenge: user=ssh devs=
+1780 17:52:13:751 debug1: kbdint_alloc: devices ''
+1780 17:52:13:751 Failed keyboard-interactive for ssh from 192.168.43.203 port 52591 ssh2
+1780 17:52:17:351 Connection reset by authenticating user ssh 192.168.43.203 port 52591
+1780 17:52:17:351 debug1: do_cleanup
+1532 17:54:18:399 debug1: Forked child 552.
+552 17:54:18:501 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+552 17:54:18:501 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+552 17:54:18:501 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+552 17:54:18:517 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+552 17:54:18:517 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+552 17:54:18:517 debug1: child socket: 448
+552 17:54:18:517 debug1: child startup_pipe: 452
+552 17:54:18:517 Connection from 172.24.240.1 port 52592 on 172.24.247.46 port 22
+552 17:54:18:517 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+552 17:54:18:517 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+552 17:54:18:517 debug1: Local version string SSH-2.0-OpenSSH_7.6
+552 17:54:18:517 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+552 17:54:18:517 debug1: SSH2_MSG_KEXINIT sent
+552 17:54:18:517 debug1: SSH2_MSG_KEXINIT received
+552 17:54:18:517 debug1: kex: algorithm: curve25519-sha256
+552 17:54:18:517 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+552 17:54:18:517 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+552 17:54:18:517 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+552 17:54:18:517 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+552 17:54:18:533 debug1: rekey after 134217728 blocks
+552 17:54:18:533 debug1: SSH2_MSG_NEWKEYS sent
+552 17:54:18:533 debug1: expecting SSH2_MSG_NEWKEYS
+552 17:54:20:819 debug1: SSH2_MSG_NEWKEYS received
+552 17:54:20:819 debug1: rekey after 134217728 blocks
+552 17:54:20:819 debug1: KEX done
+552 17:54:20:869 debug1: userauth-request for user ssh service ssh-connection method none
+552 17:54:20:869 debug1: attempt 0 failures 0
+552 17:54:20:869 debug1: userauth_send_banner: sent
+552 17:54:20:869 debug1: failed to logon user: ssh domain: (null) error:1326
+552 17:54:20:869 Failed none for ssh from 172.24.240.1 port 52592 ssh2
+552 17:54:20:884 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+552 17:54:20:884 debug1: attempt 1 failures 0
+552 17:54:20:884 debug1: keyboard-interactive devs 
+552 17:54:20:884 debug1: auth2_challenge: user=ssh devs=
+552 17:54:20:884 debug1: kbdint_alloc: devices ''
+552 17:54:20:884 Failed keyboard-interactive for ssh from 172.24.240.1 port 52592 ssh2
+552 17:54:35:568 debug1: userauth-request for user ssh service ssh-connection method password
+552 17:54:35:568 debug1: attempt 2 failures 1
+552 17:54:35:661 Accepted password for ssh from 172.24.240.1 port 52592 ssh2
+552 17:54:35:661 debug1: Entering interactive session for SSH2.
+552 17:54:35:661 debug1: server_init_dispatch
+552 17:54:35:677 debug1: server_input_channel_open: ctype session rchan 0 win 2097152 max 32768
+552 17:54:35:677 debug1: input_session_request
+552 17:54:35:677 debug1: channel 0: new [server-session]
+552 17:54:35:677 debug1: session_new: session 0
+552 17:54:35:677 debug1: session_open: channel 0
+552 17:54:35:677 debug1: session_open: session 0: link with channel 0
+552 17:54:35:677 debug1: server_input_channel_open: confirm session
+552 17:54:35:677 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+552 17:54:35:742 debug1: server_input_channel_req: channel 0 request exec reply 1
+552 17:54:35:742 debug1: session_by_channel: session 0 channel 0
+552 17:54:35:742 debug1: session_input_channel_req: session 0 req exec
+552 17:54:35:742 Starting session: command for ssh from 172.24.240.1 port 52592 id 0
+552 17:54:35:956 debug1: Executing command: C:\\OpenSSH-Win64\\scp -f C:/OpenSSH-Win64/pwd.txt
+552 17:54:36:099 debug1: Received SIGCHLD.
+552 17:54:36:099 debug1: session_by_pid: pid 1988
+552 17:54:36:099 debug1: session_exit_message: session 0 channel 0 pid 1988
+552 17:54:36:099 debug1: session_exit_message: release channel 0
+552 17:54:36:099 debug1: session_by_channel: session 0 channel 0
+552 17:54:36:099 debug1: session_close_by_channel: channel 0 child 0
+552 17:54:36:099 Close session: user ssh from 172.24.240.1 port 52592 id 0
+552 17:54:36:099 debug1: channel 0: free: server-session, nchannels 1
+552 17:54:36:099 Read error from remote host 172.24.240.1 port 52592: Unknown error
+552 17:54:36:099 debug1: do_cleanup
+1532 17:54:47:110 debug1: Forked child 760.
+760 17:54:47:204 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+760 17:54:47:220 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+760 17:54:47:220 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+760 17:54:47:235 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+760 17:54:47:235 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+760 17:54:47:235 debug1: child socket: 452
+760 17:54:47:235 debug1: child startup_pipe: 476
+760 17:54:47:235 Connection from 172.24.240.1 port 52593 on 172.24.247.46 port 22
+760 17:54:47:235 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+760 17:54:47:235 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+760 17:54:47:235 debug1: Local version string SSH-2.0-OpenSSH_7.6
+760 17:54:47:235 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+760 17:54:47:235 debug1: SSH2_MSG_KEXINIT sent
+760 17:54:47:235 debug1: SSH2_MSG_KEXINIT received
+760 17:54:47:235 debug1: kex: algorithm: curve25519-sha256
+760 17:54:47:235 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+760 17:54:47:235 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+760 17:54:47:235 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+760 17:54:47:235 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+760 17:54:47:251 debug1: rekey after 134217728 blocks
+760 17:54:47:251 debug1: SSH2_MSG_NEWKEYS sent
+760 17:54:47:251 debug1: expecting SSH2_MSG_NEWKEYS
+760 17:54:47:251 debug1: SSH2_MSG_NEWKEYS received
+760 17:54:47:251 debug1: rekey after 134217728 blocks
+760 17:54:47:251 debug1: KEX done
+760 17:54:47:314 debug1: userauth-request for user ssh service ssh-connection method none
+760 17:54:47:314 debug1: attempt 0 failures 0
+760 17:54:47:314 debug1: userauth_send_banner: sent
+760 17:54:47:314 debug1: failed to logon user: ssh domain: (null) error:1326
+760 17:54:47:314 Failed none for ssh from 172.24.240.1 port 52593 ssh2
+760 17:54:47:329 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+760 17:54:47:329 debug1: attempt 1 failures 0
+760 17:54:47:329 debug1: keyboard-interactive devs 
+760 17:54:47:329 debug1: auth2_challenge: user=ssh devs=
+760 17:54:47:329 debug1: kbdint_alloc: devices ''
+760 17:54:47:329 Failed keyboard-interactive for ssh from 172.24.240.1 port 52593 ssh2
+760 17:54:56:803 debug1: userauth-request for user ssh service ssh-connection method password
+760 17:54:56:803 debug1: attempt 2 failures 1
+760 17:54:56:803 Accepted password for ssh from 172.24.240.1 port 52593 ssh2
+760 17:54:56:803 debug1: Entering interactive session for SSH2.
+760 17:54:56:819 debug1: server_init_dispatch
+760 17:54:56:819 debug1: server_input_channel_open: ctype session rchan 0 win 2097152 max 32768
+760 17:54:56:819 debug1: input_session_request
+760 17:54:56:819 debug1: channel 0: new [server-session]
+760 17:54:56:819 debug1: session_new: session 0
+760 17:54:56:819 debug1: session_open: channel 0
+760 17:54:56:819 debug1: session_open: session 0: link with channel 0
+760 17:54:56:819 debug1: server_input_channel_open: confirm session
+760 17:54:56:819 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+760 17:54:56:866 debug1: server_input_channel_req: channel 0 request exec reply 1
+760 17:54:56:866 debug1: session_by_channel: session 0 channel 0
+760 17:54:56:866 debug1: session_input_channel_req: session 0 req exec
+760 17:54:56:866 Starting session: command for ssh from 172.24.240.1 port 52593 id 0
+760 17:54:57:039 debug1: Executing command: C:\\OpenSSH-Win64\\scp -f C:/OpenSSH-Win64/pwd.txt
+760 17:54:57:071 debug1: Received SIGCHLD.
+760 17:54:57:071 debug1: session_by_pid: pid 584
+760 17:54:57:071 debug1: session_exit_message: session 0 channel 0 pid 584
+760 17:54:57:071 debug1: session_exit_message: release channel 0
+760 17:54:57:071 debug1: session_by_channel: session 0 channel 0
+760 17:54:57:071 debug1: session_close_by_channel: channel 0 child 0
+760 17:54:57:071 Close session: user ssh from 172.24.240.1 port 52593 id 0
+760 17:54:57:071 debug1: channel 0: free: server-session, nchannels 1
+760 17:54:57:071 Read error from remote host 172.24.240.1 port 52593: Unknown error
+760 17:54:57:071 debug1: do_cleanup
+1532 19:26:27:183 Received signal 8; terminating.
+1552 12:45:47:635 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1552 12:45:48:198 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1552 12:45:48:428 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1552 12:45:48:745 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1552 12:45:48:869 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1552 12:45:48:869 debug1: Bind to port 22 on ::.
+1552 12:45:48:869 Server listening on :: port 22.
+1552 12:45:48:869 debug1: Bind to port 22 on 0.0.0.0.
+1552 12:45:48:869 Server listening on 0.0.0.0 port 22.
+1552 13:36:20:117 debug1: Forked child 1908.
+1908 13:36:20:343 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1908 13:36:20:358 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1908 13:36:20:374 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1908 13:36:20:374 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1908 13:36:20:374 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1908 13:36:20:374 debug1: child socket: 432
+1908 13:36:20:374 debug1: child startup_pipe: 64
+1908 13:36:20:405 Connection from 192.168.43.203 port 62871 on 172.26.81.153 port 22
+1908 13:36:20:421 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+1908 13:36:20:421 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+1908 13:36:20:421 debug1: Local version string SSH-2.0-OpenSSH_7.6
+1908 13:36:20:452 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+1908 13:36:20:452 debug1: SSH2_MSG_KEXINIT sent
+1908 13:36:20:468 debug1: SSH2_MSG_KEXINIT received
+1908 13:36:20:484 debug1: kex: algorithm: curve25519-sha256
+1908 13:36:20:484 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+1908 13:36:20:484 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1908 13:36:20:484 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1908 13:36:20:484 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+1908 13:36:20:530 debug1: rekey after 134217728 blocks
+1908 13:36:20:530 debug1: SSH2_MSG_NEWKEYS sent
+1908 13:36:20:530 debug1: expecting SSH2_MSG_NEWKEYS
+1908 13:36:20:546 debug1: SSH2_MSG_NEWKEYS received
+1908 13:36:20:546 debug1: rekey after 134217728 blocks
+1908 13:36:20:546 debug1: KEX done
+1908 13:36:20:609 debug1: userauth-request for user ssh service ssh-connection method none
+1908 13:36:20:609 debug1: attempt 0 failures 0
+1908 13:36:20:718 debug1: userauth_send_banner: sent
+1908 13:36:20:770 debug1: failed to logon user: ssh domain: (null) error:1326
+1908 13:36:20:812 Failed none for ssh from 192.168.43.203 port 62871 ssh2
+1908 13:36:20:814 debug1: userauth-request for user ssh service ssh-connection method publickey
+1908 13:36:20:814 debug1: attempt 1 failures 0
+1908 13:36:20:814 debug1: userauth_pubkey: test whether pkalg/pkblob are acceptable for RSA SHA256:w6pRGsqIT9NhgWHqqQdEqJG2yLvOnFXcjuCUv8DB+Ao
+1908 13:36:20:814 debug1: trying public key file C:\\Users\\ssh\\.ssh/authorized_keys
+1908 13:36:20:843 debug1: Could not open authorized keys 'C:\\Users\\ssh\\.ssh/authorized_keys': No such file or directory
+1908 13:36:20:843 Failed publickey for ssh from 192.168.43.203 port 62871 ssh2
+1908 13:36:20:843 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+1908 13:36:20:843 debug1: attempt 2 failures 1
+1908 13:36:20:843 debug1: keyboard-interactive devs 
+1908 13:36:20:843 debug1: auth2_challenge: user=ssh devs=
+1908 13:36:20:843 debug1: kbdint_alloc: devices ''
+1908 13:36:20:843 Failed keyboard-interactive for ssh from 192.168.43.203 port 62871 ssh2
+1908 13:36:37:335 debug1: userauth-request for user ssh service ssh-connection method password
+1908 13:36:37:335 debug1: attempt 3 failures 2
+1908 13:36:37:429 Accepted password for ssh from 192.168.43.203 port 62871 ssh2
+1908 13:36:37:429 debug1: Entering interactive session for SSH2.
+1908 13:36:37:429 debug1: server_init_dispatch
+1908 13:36:37:445 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+1908 13:36:37:445 debug1: input_session_request
+1908 13:36:37:445 debug1: channel 0: new [server-session]
+1908 13:36:37:445 debug1: session_new: session 0
+1908 13:36:37:445 debug1: session_open: channel 0
+1908 13:36:37:445 debug1: session_open: session 0: link with channel 0
+1908 13:36:37:445 debug1: server_input_channel_open: confirm session
+1908 13:36:37:445 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+1908 13:36:37:445 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+1908 13:36:37:445 debug1: session_by_channel: session 0 channel 0
+1908 13:36:37:445 debug1: session_input_channel_req: session 0 req pty-req
+1908 13:36:37:445 debug1: Allocating pty.
+1908 13:36:37:445 debug1: session_pty_req: session 0 alloc console
+1908 13:36:37:445 debug1: server_input_channel_req: channel 0 request shell reply 1
+1908 13:36:37:445 debug1: session_by_channel: session 0 channel 0
+1908 13:36:37:445 debug1: session_input_channel_req: session 0 req shell
+1908 13:36:37:445 Starting session: shell on console for ssh from 192.168.43.203 port 62871 id 0
+1908 13:36:37:695 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+1908 13:36:37:741 debug1: server_input_channel_req: channel 0 request window-change reply 0
+1908 13:36:37:741 debug1: session_by_channel: session 0 channel 0
+1908 13:36:37:741 debug1: session_input_channel_req: session 0 req window-change
+1908 13:36:37:773 debug1: server_input_channel_req: channel 0 request window-change reply 0
+1908 13:36:37:773 debug1: session_by_channel: session 0 channel 0
+1908 13:36:37:773 debug1: session_input_channel_req: session 0 req window-change
+1908 13:40:32:015 debug1: Received SIGCHLD.
+1908 13:40:32:015 debug1: session_by_pid: pid 1044
+1908 13:40:32:015 debug1: session_exit_message: session 0 channel 0 pid 1044
+1908 13:40:32:015 debug1: session_exit_message: release channel 0
+1908 13:40:32:015 debug1: session_pty_cleanup: session 0 release console
+1908 13:40:32:031 debug1: session_by_channel: session 0 channel 0
+1908 13:40:32:031 debug1: session_close_by_channel: channel 0 child 0
+1908 13:40:32:031 Close session: user ssh from 192.168.43.203 port 62871 id 0
+1908 13:40:32:031 debug1: channel 0: free: server-session, nchannels 1
+1908 13:40:32:031 Received disconnect from 192.168.43.203 port 62871:11: disconnected by user
+1908 13:40:32:031 Disconnected from user ssh 192.168.43.203 port 62871
+1908 13:40:32:031 debug1: do_cleanup
+1552 13:42:03:049 debug1: Forked child 228.
+228 13:42:03:221 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+228 13:42:03:237 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+228 13:42:03:237 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+228 13:42:03:237 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+228 13:42:03:237 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+228 13:42:03:252 debug1: child socket: 64
+228 13:42:03:252 debug1: child startup_pipe: 440
+228 13:42:03:252 Connection from 192.168.43.203 port 62873 on 172.26.81.153 port 22
+228 13:42:03:252 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+228 13:42:03:252 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+228 13:42:03:252 debug1: Local version string SSH-2.0-OpenSSH_7.6
+228 13:42:03:252 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+228 13:42:03:252 debug1: SSH2_MSG_KEXINIT sent
+228 13:42:03:252 debug1: SSH2_MSG_KEXINIT received
+228 13:42:03:252 debug1: kex: algorithm: curve25519-sha256
+228 13:42:03:252 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+228 13:42:03:252 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+228 13:42:03:252 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+228 13:42:03:252 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+228 13:42:03:315 debug1: rekey after 134217728 blocks
+228 13:42:03:315 debug1: SSH2_MSG_NEWKEYS sent
+228 13:42:03:315 debug1: expecting SSH2_MSG_NEWKEYS
+228 13:42:03:330 debug1: SSH2_MSG_NEWKEYS received
+228 13:42:03:330 debug1: rekey after 134217728 blocks
+228 13:42:03:330 debug1: KEX done
+228 13:42:03:393 debug1: userauth-request for user ssh service ssh-connection method none
+228 13:42:03:393 debug1: attempt 0 failures 0
+228 13:42:03:393 debug1: userauth_send_banner: sent
+228 13:42:03:393 debug1: failed to logon user: ssh domain: (null) error:1326
+228 13:42:03:393 Failed none for ssh from 192.168.43.203 port 62873 ssh2
+228 13:42:03:409 debug1: userauth-request for user ssh service ssh-connection method publickey
+228 13:42:03:409 debug1: attempt 1 failures 0
+228 13:42:03:409 debug1: userauth_pubkey: test whether pkalg/pkblob are acceptable for RSA SHA256:w6pRGsqIT9NhgWHqqQdEqJG2yLvOnFXcjuCUv8DB+Ao
+228 13:42:03:409 debug1: trying public key file C:\\Users\\ssh\\.ssh/authorized_keys
+228 13:42:03:409 debug1: Could not open authorized keys 'C:\\Users\\ssh\\.ssh/authorized_keys': No such file or directory
+228 13:42:03:409 Failed publickey for ssh from 192.168.43.203 port 62873 ssh2
+228 13:42:03:409 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+228 13:42:03:409 debug1: attempt 2 failures 1
+228 13:42:03:409 debug1: keyboard-interactive devs 
+228 13:42:03:409 debug1: auth2_challenge: user=ssh devs=
+228 13:42:03:409 debug1: kbdint_alloc: devices ''
+228 13:42:03:409 Failed keyboard-interactive for ssh from 192.168.43.203 port 62873 ssh2
+228 13:42:15:712 debug1: userauth-request for user ssh service ssh-connection method password
+228 13:42:15:712 debug1: attempt 3 failures 2
+228 13:42:15:728 Accepted password for ssh from 192.168.43.203 port 62873 ssh2
+228 13:42:15:728 debug1: Entering interactive session for SSH2.
+228 13:42:15:728 debug1: server_init_dispatch
+228 13:42:15:728 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+228 13:42:15:728 debug1: input_session_request
+228 13:42:15:728 debug1: channel 0: new [server-session]
+228 13:42:15:728 debug1: session_new: session 0
+228 13:42:15:728 debug1: session_open: channel 0
+228 13:42:15:728 debug1: session_open: session 0: link with channel 0
+228 13:42:15:728 debug1: server_input_channel_open: confirm session
+228 13:42:15:728 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+228 13:42:15:728 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+228 13:42:15:728 debug1: session_by_channel: session 0 channel 0
+228 13:42:15:728 debug1: session_input_channel_req: session 0 req pty-req
+228 13:42:15:728 debug1: Allocating pty.
+228 13:42:15:728 debug1: session_pty_req: session 0 alloc console
+228 13:42:15:728 debug1: server_input_channel_req: channel 0 request shell reply 1
+228 13:42:15:728 debug1: session_by_channel: session 0 channel 0
+228 13:42:15:728 debug1: session_input_channel_req: session 0 req shell
+228 13:42:15:728 Starting session: shell on console for ssh from 192.168.43.203 port 62873 id 0
+228 13:42:15:884 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+228 13:42:15:884 debug1: server_input_channel_req: channel 0 request window-change reply 0
+228 13:42:15:884 debug1: session_by_channel: session 0 channel 0
+228 13:42:15:884 debug1: session_input_channel_req: session 0 req window-change
+228 13:42:15:916 debug1: server_input_channel_req: channel 0 request window-change reply 0
+228 13:42:15:916 debug1: session_by_channel: session 0 channel 0
+228 13:42:15:916 debug1: session_input_channel_req: session 0 req window-change
+228 13:43:05:475 debug1: Received SIGCHLD.
+228 13:43:05:475 debug1: session_by_pid: pid 620
+228 13:43:05:475 debug1: session_exit_message: session 0 channel 0 pid 620
+228 13:43:05:475 debug1: session_exit_message: release channel 0
+228 13:43:05:475 debug1: session_pty_cleanup: session 0 release console
+228 13:43:05:475 debug1: session_by_channel: session 0 channel 0
+228 13:43:05:475 debug1: session_close_by_channel: channel 0 child 0
+228 13:43:05:475 Close session: user ssh from 192.168.43.203 port 62873 id 0
+228 13:43:05:475 debug1: channel 0: free: server-session, nchannels 1
+228 13:43:05:475 Received disconnect from 192.168.43.203 port 62873:11: disconnected by user
+228 13:43:05:475 Disconnected from user ssh 192.168.43.203 port 62873
+228 13:43:05:475 debug1: do_cleanup
+1552 13:44:58:135 debug1: Forked child 944.
+944 13:44:58:290 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+944 13:44:58:290 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+944 13:44:58:305 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+944 13:44:58:305 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+944 13:44:58:305 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+944 13:44:58:305 debug1: child socket: 440
+944 13:44:58:305 debug1: child startup_pipe: 344
+944 13:44:58:305 Connection from 192.168.43.203 port 62881 on 172.26.81.153 port 22
+944 13:44:58:305 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+944 13:44:58:305 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+944 13:44:58:305 debug1: Local version string SSH-2.0-OpenSSH_7.6
+944 13:44:58:305 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+944 13:44:58:305 debug1: SSH2_MSG_KEXINIT sent
+944 13:44:58:305 debug1: SSH2_MSG_KEXINIT received
+944 13:44:58:305 debug1: kex: algorithm: curve25519-sha256
+944 13:44:58:305 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+944 13:44:58:305 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+944 13:44:58:305 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+944 13:44:58:305 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+944 13:44:58:368 debug1: rekey after 134217728 blocks
+944 13:44:58:368 debug1: SSH2_MSG_NEWKEYS sent
+944 13:44:58:368 debug1: expecting SSH2_MSG_NEWKEYS
+944 13:44:58:383 debug1: SSH2_MSG_NEWKEYS received
+944 13:44:58:383 debug1: rekey after 134217728 blocks
+944 13:44:58:383 debug1: KEX done
+944 13:44:58:447 debug1: userauth-request for user ssh service ssh-connection method none
+944 13:44:58:447 debug1: attempt 0 failures 0
+944 13:44:58:447 debug1: userauth_send_banner: sent
+944 13:44:58:447 debug1: failed to logon user: ssh domain: (null) error:1326
+944 13:44:58:447 Failed none for ssh from 192.168.43.203 port 62881 ssh2
+944 13:44:58:463 debug1: userauth-request for user ssh service ssh-connection method publickey
+944 13:44:58:463 debug1: attempt 1 failures 0
+944 13:44:58:463 debug1: userauth_pubkey: test whether pkalg/pkblob are acceptable for RSA SHA256:w6pRGsqIT9NhgWHqqQdEqJG2yLvOnFXcjuCUv8DB+Ao
+944 13:44:58:463 debug1: trying public key file C:\\Users\\ssh\\.ssh/authorized_keys
+944 13:44:58:463 debug1: Could not open authorized keys 'C:\\Users\\ssh\\.ssh/authorized_keys': No such file or directory
+944 13:44:58:463 Failed publickey for ssh from 192.168.43.203 port 62881 ssh2
+944 13:44:58:463 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+944 13:44:58:463 debug1: attempt 2 failures 1
+944 13:44:58:463 debug1: keyboard-interactive devs 
+944 13:44:58:463 debug1: auth2_challenge: user=ssh devs=
+944 13:44:58:463 debug1: kbdint_alloc: devices ''
+944 13:44:58:463 Failed keyboard-interactive for ssh from 192.168.43.203 port 62881 ssh2
+944 13:45:07:094 debug1: userauth-request for user ssh service ssh-connection method password
+944 13:45:07:094 debug1: attempt 3 failures 2
+944 13:45:07:109 Accepted password for ssh from 192.168.43.203 port 62881 ssh2
+944 13:45:07:109 debug1: Entering interactive session for SSH2.
+944 13:45:07:109 debug1: server_init_dispatch
+944 13:45:07:109 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+944 13:45:07:109 debug1: input_session_request
+944 13:45:07:109 debug1: channel 0: new [server-session]
+944 13:45:07:109 debug1: session_new: session 0
+944 13:45:07:109 debug1: session_open: channel 0
+944 13:45:07:109 debug1: session_open: session 0: link with channel 0
+944 13:45:07:109 debug1: server_input_channel_open: confirm session
+944 13:45:07:109 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+944 13:45:07:109 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+944 13:45:07:109 debug1: session_by_channel: session 0 channel 0
+944 13:45:07:109 debug1: session_input_channel_req: session 0 req pty-req
+944 13:45:07:109 debug1: Allocating pty.
+944 13:45:07:109 debug1: session_pty_req: session 0 alloc console
+944 13:45:07:109 debug1: server_input_channel_req: channel 0 request shell reply 1
+944 13:45:07:109 debug1: session_by_channel: session 0 channel 0
+944 13:45:07:109 debug1: session_input_channel_req: session 0 req shell
+944 13:45:07:109 Starting session: shell on console for ssh from 192.168.43.203 port 62881 id 0
+944 13:45:07:250 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+944 13:45:07:250 debug1: server_input_channel_req: channel 0 request window-change reply 0
+944 13:45:07:250 debug1: session_by_channel: session 0 channel 0
+944 13:45:07:250 debug1: session_input_channel_req: session 0 req window-change
+944 13:45:07:266 debug1: server_input_channel_req: channel 0 request window-change reply 0
+944 13:45:07:266 debug1: session_by_channel: session 0 channel 0
+944 13:45:07:266 debug1: session_input_channel_req: session 0 req window-change
+944 13:47:21:317 debug1: Received SIGCHLD.
+944 13:47:21:317 debug1: session_by_pid: pid 468
+944 13:47:21:317 debug1: session_exit_message: session 0 channel 0 pid 468
+944 13:47:21:317 debug1: session_exit_message: release channel 0
+944 13:47:21:317 debug1: session_pty_cleanup: session 0 release console
+944 13:47:21:317 debug1: session_by_channel: session 0 channel 0
+944 13:47:21:317 debug1: session_close_by_channel: channel 0 child 0
+944 13:47:21:317 Close session: user ssh from 192.168.43.203 port 62881 id 0
+944 13:47:21:317 debug1: channel 0: free: server-session, nchannels 1
+944 13:47:21:317 Received disconnect from 192.168.43.203 port 62881:11: disconnected by user
+944 13:47:21:317 Disconnected from user ssh 192.168.43.203 port 62881
+944 13:47:21:317 debug1: do_cleanup
+1552 14:03:17:667 debug1: Forked child 112.
+112 14:03:17:867 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+112 14:03:17:883 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+112 14:03:17:883 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+112 14:03:17:883 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+112 14:03:17:883 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+112 14:03:17:883 debug1: child socket: 344
+112 14:03:17:883 debug1: child startup_pipe: 64
+112 14:03:17:898 Connection from 192.168.43.203 port 62904 on 172.26.81.153 port 22
+112 14:03:17:898 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+112 14:03:17:898 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+112 14:03:17:898 debug1: Local version string SSH-2.0-OpenSSH_7.6
+112 14:03:17:898 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+112 14:03:17:898 debug1: SSH2_MSG_KEXINIT sent
+112 14:03:17:898 debug1: SSH2_MSG_KEXINIT received
+112 14:03:17:898 debug1: kex: algorithm: curve25519-sha256
+112 14:03:17:898 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+112 14:03:17:898 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+112 14:03:17:898 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+112 14:03:17:898 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+112 14:03:17:961 debug1: rekey after 134217728 blocks
+112 14:03:17:961 debug1: SSH2_MSG_NEWKEYS sent
+112 14:03:17:961 debug1: expecting SSH2_MSG_NEWKEYS
+112 14:03:17:961 debug1: SSH2_MSG_NEWKEYS received
+112 14:03:17:961 debug1: rekey after 134217728 blocks
+112 14:03:17:961 debug1: KEX done
+112 14:03:18:023 debug1: userauth-request for user ssh service ssh-connection method none
+112 14:03:18:023 debug1: attempt 0 failures 0
+112 14:03:18:023 debug1: userauth_send_banner: sent
+112 14:03:18:023 debug1: failed to logon user: ssh domain: (null) error:1326
+112 14:03:18:023 Failed none for ssh from 192.168.43.203 port 62904 ssh2
+112 14:03:18:023 debug1: userauth-request for user ssh service ssh-connection method publickey
+112 14:03:18:023 debug1: attempt 1 failures 0
+112 14:03:18:023 debug1: userauth_pubkey: test whether pkalg/pkblob are acceptable for RSA SHA256:w6pRGsqIT9NhgWHqqQdEqJG2yLvOnFXcjuCUv8DB+Ao
+112 14:03:18:023 debug1: trying public key file C:\\Users\\ssh\\.ssh/authorized_keys
+112 14:03:18:023 debug1: Could not open authorized keys 'C:\\Users\\ssh\\.ssh/authorized_keys': No such file or directory
+112 14:03:18:023 Failed publickey for ssh from 192.168.43.203 port 62904 ssh2
+112 14:03:18:023 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+112 14:03:18:023 debug1: attempt 2 failures 1
+112 14:03:18:023 debug1: keyboard-interactive devs 
+112 14:03:18:023 debug1: auth2_challenge: user=ssh devs=
+112 14:03:18:023 debug1: kbdint_alloc: devices ''
+112 14:03:18:023 Failed keyboard-interactive for ssh from 192.168.43.203 port 62904 ssh2
+112 14:03:42:026 debug1: userauth-request for user ssh service ssh-connection method password
+112 14:03:42:026 debug1: attempt 3 failures 2
+112 14:03:42:026 Accepted password for ssh from 192.168.43.203 port 62904 ssh2
+112 14:03:42:042 debug1: Entering interactive session for SSH2.
+112 14:03:42:042 debug1: server_init_dispatch
+112 14:03:42:042 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+112 14:03:42:042 debug1: input_session_request
+112 14:03:42:042 debug1: channel 0: new [server-session]
+112 14:03:42:042 debug1: session_new: session 0
+112 14:03:42:042 debug1: session_open: channel 0
+112 14:03:42:042 debug1: session_open: session 0: link with channel 0
+112 14:03:42:042 debug1: server_input_channel_open: confirm session
+112 14:03:42:042 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+112 14:03:42:042 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+112 14:03:42:042 debug1: session_by_channel: session 0 channel 0
+112 14:03:42:042 debug1: session_input_channel_req: session 0 req pty-req
+112 14:03:42:042 debug1: Allocating pty.
+112 14:03:42:042 debug1: session_pty_req: session 0 alloc console
+112 14:03:42:042 debug1: server_input_channel_req: channel 0 request shell reply 1
+112 14:03:42:042 debug1: session_by_channel: session 0 channel 0
+112 14:03:42:042 debug1: session_input_channel_req: session 0 req shell
+112 14:03:42:042 Starting session: shell on console for ssh from 192.168.43.203 port 62904 id 0
+112 14:03:42:199 debug1: Executing command: C:\\OpenSSH-Win64\\ssh-shellhost.exe 
+112 14:03:42:199 debug1: server_input_channel_req: channel 0 request window-change reply 0
+112 14:03:42:199 debug1: session_by_channel: session 0 channel 0
+112 14:03:42:199 debug1: session_input_channel_req: session 0 req window-change
+112 14:03:42:214 debug1: server_input_channel_req: channel 0 request window-change reply 0
+112 14:03:42:214 debug1: session_by_channel: session 0 channel 0
+112 14:03:42:214 debug1: session_input_channel_req: session 0 req window-change
+112 14:04:39:170 debug1: Received SIGCHLD.
+112 14:04:39:170 debug1: session_by_pid: pid 1532
+112 14:04:39:170 debug1: session_exit_message: session 0 channel 0 pid 1532
+112 14:04:39:170 debug1: session_exit_message: release channel 0
+112 14:04:39:170 debug1: session_pty_cleanup: session 0 release console
+112 14:04:39:170 debug1: session_by_channel: session 0 channel 0
+112 14:04:39:170 debug1: session_close_by_channel: channel 0 child 0
+112 14:04:39:170 Close session: user ssh from 192.168.43.203 port 62904 id 0
+112 14:04:39:170 debug1: channel 0: free: server-session, nchannels 1
+112 14:04:39:170 Received disconnect from 192.168.43.203 port 62904:11: disconnected by user
+112 14:04:39:170 Disconnected from user ssh 192.168.43.203 port 62904
+112 14:04:39:170 debug1: do_cleanup
+1552 14:10:20:280 Received signal 8; terminating.
+1336 14:11:07:362 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1336 14:11:07:409 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1336 14:11:07:440 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1336 14:11:07:456 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1336 14:11:07:456 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1336 14:11:07:456 debug1: Bind to port 22 on ::.
+1336 14:11:07:456 Server listening on :: port 22.
+1336 14:11:07:456 debug1: Bind to port 22 on 0.0.0.0.
+1336 14:11:07:456 Server listening on 0.0.0.0 port 22.
+1336 14:12:08:650 debug1: Forked child 1596.
+1596 14:12:08:837 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1596 14:12:08:869 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1596 14:12:08:869 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1596 14:12:08:884 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1596 14:12:08:884 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1596 14:12:08:884 debug1: child socket: 424
+1596 14:12:08:884 debug1: child startup_pipe: 428
+1596 14:12:08:900 Connection from 172.26.80.1 port 62909 on 172.26.83.37 port 22
+1596 14:12:08:900 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+1596 14:12:08:900 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+1596 14:12:08:900 debug1: Local version string SSH-2.0-OpenSSH_7.6
+1596 14:12:08:900 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+1596 14:12:08:900 debug1: SSH2_MSG_KEXINIT sent
+1596 14:12:08:900 debug1: SSH2_MSG_KEXINIT received
+1596 14:12:08:900 debug1: kex: algorithm: curve25519-sha256
+1596 14:12:08:900 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+1596 14:12:08:900 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1596 14:12:08:900 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1596 14:12:08:900 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+1596 14:12:08:931 debug1: rekey after 134217728 blocks
+1596 14:12:08:931 debug1: SSH2_MSG_NEWKEYS sent
+1596 14:12:08:931 debug1: expecting SSH2_MSG_NEWKEYS
+1596 14:12:15:130 debug1: SSH2_MSG_NEWKEYS received
+1596 14:12:15:130 debug1: rekey after 134217728 blocks
+1596 14:12:15:130 debug1: KEX done
+1596 14:12:15:177 debug1: userauth-request for user ssh service ssh-connection method none
+1596 14:12:15:177 debug1: attempt 0 failures 0
+1596 14:12:15:193 debug1: userauth_send_banner: sent
+1596 14:12:15:208 debug1: failed to logon user: ssh domain: (null) error:1326
+1596 14:12:15:208 Failed none for ssh from 172.26.80.1 port 62909 ssh2
+1596 14:12:15:208 debug1: userauth-request for user ssh service ssh-connection method publickey
+1596 14:12:15:208 debug1: attempt 1 failures 0
+1596 14:12:15:208 debug1: userauth_pubkey: test whether pkalg/pkblob are acceptable for RSA SHA256:w6pRGsqIT9NhgWHqqQdEqJG2yLvOnFXcjuCUv8DB+Ao
+1596 14:12:15:208 debug1: trying public key file C:\\Users\\ssh\\.ssh/authorized_keys
+1596 14:12:15:224 debug1: Could not open authorized keys 'C:\\Users\\ssh\\.ssh/authorized_keys': No such file or directory
+1596 14:12:15:224 Failed publickey for ssh from 172.26.80.1 port 62909 ssh2
+1596 14:12:15:224 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+1596 14:12:15:224 debug1: attempt 2 failures 1
+1596 14:12:15:224 debug1: keyboard-interactive devs 
+1596 14:12:15:224 debug1: auth2_challenge: user=ssh devs=
+1596 14:12:15:224 debug1: kbdint_alloc: devices ''
+1596 14:12:15:224 Failed keyboard-interactive for ssh from 172.26.80.1 port 62909 ssh2
+1596 14:12:19:614 debug1: userauth-request for user ssh service ssh-connection method password
+1596 14:12:19:614 debug1: attempt 3 failures 2
+1596 14:12:19:677 Accepted password for ssh from 172.26.80.1 port 62909 ssh2
+1596 14:12:19:677 debug1: Entering interactive session for SSH2.
+1596 14:12:19:677 debug1: server_init_dispatch
+1596 14:12:19:677 debug1: server_input_channel_open: ctype session rchan 0 win 2097152 max 32768
+1596 14:12:19:677 debug1: input_session_request
+1596 14:12:19:677 debug1: channel 0: new [server-session]
+1596 14:12:19:677 debug1: session_new: session 0
+1596 14:12:19:677 debug1: session_open: channel 0
+1596 14:12:19:677 debug1: session_open: session 0: link with channel 0
+1596 14:12:19:677 debug1: server_input_channel_open: confirm session
+1596 14:12:19:677 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+1596 14:12:19:739 debug1: server_input_channel_req: channel 0 request exec reply 1
+1596 14:12:19:739 debug1: session_by_channel: session 0 channel 0
+1596 14:12:19:739 debug1: session_input_channel_req: session 0 req exec
+1596 14:12:19:739 Starting session: command for ssh from 172.26.80.1 port 62909 id 0
+1596 14:12:19:919 debug1: Executing command: C:\\OpenSSH-Win64\\scp -t C:/OpenSSH-Win64/user.txt
+1596 14:12:20:013 debug1: Received SIGCHLD.
+1596 14:12:20:013 debug1: session_by_pid: pid 880
+1596 14:12:20:013 debug1: session_exit_message: session 0 channel 0 pid 880
+1596 14:12:20:013 debug1: session_exit_message: release channel 0
+1596 14:12:20:028 debug1: session_by_channel: session 0 channel 0
+1596 14:12:20:028 debug1: session_close_by_channel: channel 0 child 0
+1596 14:12:20:028 Close session: user ssh from 172.26.80.1 port 62909 id 0
+1596 14:12:20:028 debug1: channel 0: free: server-session, nchannels 1
+1596 14:12:20:028 Read error from remote host 172.26.80.1 port 62909: Unknown error
+1596 14:12:20:028 debug1: do_cleanup
+1336 14:13:52:376 debug1: Forked child 1096.
+1096 14:13:52:548 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1096 14:13:52:563 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1096 14:13:52:579 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1096 14:13:52:579 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1096 14:13:52:579 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1096 14:13:52:579 debug1: child socket: 428
+1096 14:13:52:579 debug1: child startup_pipe: 300
+1096 14:13:52:595 Connection from 172.26.80.1 port 62912 on 172.26.83.37 port 22
+1096 14:13:52:595 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+1096 14:13:52:595 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+1096 14:13:52:595 debug1: Local version string SSH-2.0-OpenSSH_7.6
+1096 14:13:52:595 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+1096 14:13:52:595 debug1: SSH2_MSG_KEXINIT sent
+1096 14:13:52:610 debug1: SSH2_MSG_KEXINIT received
+1096 14:13:52:610 debug1: kex: algorithm: curve25519-sha256
+1096 14:13:52:610 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+1096 14:13:52:610 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1096 14:13:52:610 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1096 14:13:52:610 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+1096 14:13:52:626 debug1: rekey after 134217728 blocks
+1096 14:13:52:626 debug1: SSH2_MSG_NEWKEYS sent
+1096 14:13:52:626 debug1: expecting SSH2_MSG_NEWKEYS
+1096 14:13:52:642 debug1: SSH2_MSG_NEWKEYS received
+1096 14:13:52:642 debug1: rekey after 134217728 blocks
+1096 14:13:52:642 debug1: KEX done
+1096 14:13:52:704 debug1: userauth-request for user ssh service ssh-connection method none
+1096 14:13:52:704 debug1: attempt 0 failures 0
+1096 14:13:52:704 debug1: userauth_send_banner: sent
+1096 14:13:52:704 debug1: failed to logon user: ssh domain: (null) error:1326
+1096 14:13:52:704 Failed none for ssh from 172.26.80.1 port 62912 ssh2
+1096 14:13:52:720 debug1: userauth-request for user ssh service ssh-connection method publickey
+1096 14:13:52:720 debug1: attempt 1 failures 0
+1096 14:13:52:720 debug1: userauth_pubkey: test whether pkalg/pkblob are acceptable for RSA SHA256:w6pRGsqIT9NhgWHqqQdEqJG2yLvOnFXcjuCUv8DB+Ao
+1096 14:13:52:720 debug1: trying public key file C:\\Users\\ssh\\.ssh/authorized_keys
+1096 14:13:52:720 debug1: Could not open authorized keys 'C:\\Users\\ssh\\.ssh/authorized_keys': No such file or directory
+1096 14:13:52:720 Failed publickey for ssh from 172.26.80.1 port 62912 ssh2
+1096 14:13:52:720 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+1096 14:13:52:720 debug1: attempt 2 failures 1
+1096 14:13:52:720 debug1: keyboard-interactive devs 
+1096 14:13:52:720 debug1: auth2_challenge: user=ssh devs=
+1096 14:13:52:720 debug1: kbdint_alloc: devices ''
+1096 14:13:52:720 Failed keyboard-interactive for ssh from 172.26.80.1 port 62912 ssh2
+1096 14:14:06:501 debug1: userauth-request for user ssh service ssh-connection method password
+1096 14:14:06:501 debug1: attempt 3 failures 2
+1096 14:14:06:532 Accepted password for ssh from 172.26.80.1 port 62912 ssh2
+1096 14:14:06:532 debug1: Entering interactive session for SSH2.
+1096 14:14:06:532 debug1: server_init_dispatch
+1096 14:14:06:532 debug1: server_input_channel_open: ctype session rchan 0 win 2097152 max 32768
+1096 14:14:06:532 debug1: input_session_request
+1096 14:14:06:532 debug1: channel 0: new [server-session]
+1096 14:14:06:532 debug1: session_new: session 0
+1096 14:14:06:532 debug1: session_open: channel 0
+1096 14:14:06:532 debug1: session_open: session 0: link with channel 0
+1096 14:14:06:532 debug1: server_input_channel_open: confirm session
+1096 14:14:06:532 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+1096 14:14:06:579 debug1: server_input_channel_req: channel 0 request exec reply 1
+1096 14:14:06:579 debug1: session_by_channel: session 0 channel 0
+1096 14:14:06:579 debug1: session_input_channel_req: session 0 req exec
+1096 14:14:06:579 Starting session: command for ssh from 172.26.80.1 port 62912 id 0
+1096 14:14:06:778 debug1: Executing command: C:\\OpenSSH-Win64\\scp -f C:/vol101/ssh/user.txt
+1096 14:14:06:841 debug1: Received SIGCHLD.
+1096 14:14:06:841 debug1: session_by_pid: pid 824
+1096 14:14:06:841 debug1: session_exit_message: session 0 channel 0 pid 824
+1096 14:14:06:841 debug1: session_exit_message: release channel 0
+1096 14:14:06:841 debug1: session_by_channel: session 0 channel 0
+1096 14:14:06:841 debug1: session_close_by_channel: channel 0 child 0
+1096 14:14:06:841 Close session: user ssh from 172.26.80.1 port 62912 id 0
+1096 14:14:06:841 debug1: channel 0: free: server-session, nchannels 1
+1096 14:14:06:841 Received disconnect from 172.26.80.1 port 62912:11: disconnected by user
+1096 14:14:06:841 Disconnected from user ssh 172.26.80.1 port 62912
+1096 14:14:06:841 debug1: do_cleanup
+1336 14:14:20:265 debug1: Forked child 1760.
+1760 14:14:20:452 debug1: sshd version OpenSSH_7.6, LibreSSL 2.5.3
+1760 14:14:20:468 debug1: private host key #0: ssh-rsa SHA256:wKZrkAULOGVZIpBuhCds8PjmatnCG2Ytin3wHL29xJE
+1760 14:14:20:484 debug1: private host key #1: ssh-dss SHA256:mfoUep6P/UFUKNJC90Y4ow0bjHOb4rjPiAaVBjVnHNI
+1760 14:14:20:484 debug1: private host key #2: ecdsa-sha2-nistp256 SHA256:eJprkfqAXNmtRkvdkAKMI9Z7mFHR+aevDMtmCW4370Y
+1760 14:14:20:484 debug1: private host key #3: ssh-ed25519 SHA256:wJ6b7C1Uzm7XW5kSWPf8Zw6gVrVZvzgw8aCpveb5RHI
+1760 14:14:20:484 debug1: child socket: 300
+1760 14:14:20:484 debug1: child startup_pipe: 448
+1760 14:14:20:499 Connection from 172.26.80.1 port 62913 on 172.26.83.37 port 22
+1760 14:14:20:499 debug1: Client protocol version 2.0; client software version OpenSSH_for_Windows_7.7
+1760 14:14:20:499 debug1: match: OpenSSH_for_Windows_7.7 pat OpenSSH* compat 0x04000000
+1760 14:14:20:499 debug1: Local version string SSH-2.0-OpenSSH_7.6
+1760 14:14:20:499 debug1: list_hostkey_types: ssh-rsa,rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519
+1760 14:14:20:499 debug1: SSH2_MSG_KEXINIT sent
+1760 14:14:20:515 debug1: SSH2_MSG_KEXINIT received
+1760 14:14:20:515 debug1: kex: algorithm: curve25519-sha256
+1760 14:14:20:515 debug1: kex: host key algorithm: ecdsa-sha2-nistp256
+1760 14:14:20:515 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1760 14:14:20:515 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+1760 14:14:20:515 debug1: expecting SSH2_MSG_KEX_ECDH_INIT
+1760 14:14:20:530 debug1: rekey after 134217728 blocks
+1760 14:14:20:530 debug1: SSH2_MSG_NEWKEYS sent
+1760 14:14:20:530 debug1: expecting SSH2_MSG_NEWKEYS
+1760 14:14:20:546 debug1: SSH2_MSG_NEWKEYS received
+1760 14:14:20:546 debug1: rekey after 134217728 blocks
+1760 14:14:20:546 debug1: KEX done
+1760 14:14:20:593 debug1: userauth-request for user ssh service ssh-connection method none
+1760 14:14:20:593 debug1: attempt 0 failures 0
+1760 14:14:20:593 debug1: userauth_send_banner: sent
+1760 14:14:20:593 debug1: failed to logon user: ssh domain: (null) error:1326
+1760 14:14:20:593 Failed none for ssh from 172.26.80.1 port 62913 ssh2
+1760 14:14:20:609 debug1: userauth-request for user ssh service ssh-connection method publickey
+1760 14:14:20:609 debug1: attempt 1 failures 0
+1760 14:14:20:609 debug1: userauth_pubkey: test whether pkalg/pkblob are acceptable for RSA SHA256:w6pRGsqIT9NhgWHqqQdEqJG2yLvOnFXcjuCUv8DB+Ao
+1760 14:14:20:609 debug1: trying public key file C:\\Users\\ssh\\.ssh/authorized_keys
+1760 14:14:20:609 debug1: Could not open authorized keys 'C:\\Users\\ssh\\.ssh/authorized_keys': No such file or directory
+1760 14:14:20:609 Failed publickey for ssh from 172.26.80.1 port 62913 ssh2
+1760 14:14:20:609 debug1: userauth-request for user ssh service ssh-connection method keyboard-interactive
+1760 14:14:20:609 debug1: attempt 2 failures 1
+1760 14:14:20:609 debug1: keyboard-interactive devs 
+1760 14:14:20:609 debug1: auth2_challenge: user=ssh devs=
+1760 14:14:20:609 debug1: kbdint_alloc: devices ''
+1760 14:14:20:609 Failed keyboard-interactive for ssh from 172.26.80.1 port 62913 ssh2
+1760 14:14:24:043 debug1: userauth-request for user ssh service ssh-connection method password
+1760 14:14:24:043 debug1: attempt 3 failures 2
+1760 14:14:24:059 Accepted password for ssh from 172.26.80.1 port 62913 ssh2
+1760 14:14:24:059 debug1: Entering interactive session for SSH2.
+1760 14:14:24:074 debug1: server_init_dispatch
+1760 14:14:24:074 debug1: server_input_channel_open: ctype session rchan 0 win 2097152 max 32768
+1760 14:14:24:074 debug1: input_session_request
+1760 14:14:24:074 debug1: channel 0: new [server-session]
+1760 14:14:24:074 debug1: session_new: session 0
+1760 14:14:24:074 debug1: session_open: channel 0
+1760 14:14:24:074 debug1: session_open: session 0: link with channel 0
+1760 14:14:24:074 debug1: server_input_channel_open: confirm session
+1760 14:14:24:074 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+1760 14:14:24:106 debug1: server_input_channel_req: channel 0 request exec reply 1
+1760 14:14:24:106 debug1: session_by_channel: session 0 channel 0
+1760 14:14:24:106 debug1: session_input_channel_req: session 0 req exec
+1760 14:14:24:106 Starting session: command for ssh from 172.26.80.1 port 62913 id 0
+1760 14:14:24:230 debug1: Executing command: C:\\OpenSSH-Win64\\scp -f C:/vol101/ssh/user.txt
+1760 14:14:24:293 debug1: Received SIGCHLD.
+1760 14:14:24:293 debug1: session_by_pid: pid 872
+1760 14:14:24:293 debug1: session_exit_message: session 0 channel 0 pid 872
+1760 14:14:24:293 debug1: session_exit_message: release channel 0
+1760 14:14:24:293 debug1: session_by_channel: session 0 channel 0
+1760 14:14:24:293 debug1: session_close_by_channel: channel 0 child 0
+1760 14:14:24:293 Close session: user ssh from 172.26.80.1 port 62913 id 0
+1760 14:14:24:293 debug1: channel 0: free: server-session, nchannels 1
+1760 14:14:24:293 Read error from remote host 172.26.80.1 port 62913: Unknown error
+1760 14:14:24:293 debug1: do_cleanup

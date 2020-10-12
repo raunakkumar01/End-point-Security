@@ -1,0 +1,1 @@
+%{NUMBER:pid} %{TIME:time} %{STRING:command} %{STRING:message}

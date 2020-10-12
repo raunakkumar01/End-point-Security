@@ -1,0 +1,631 @@
+#TYPE System.Diagnostics.EventLogEntry#System/Service Control Manager/1073748860
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"7036","492e41035f9f","System.Byte[]","383","(0)","0","Information","The RemoteRegistry service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:49:56 AM","9/7/2020 3:49:56 AM",,,
+"7036","492e41035f9f","System.Byte[]","382","(0)","0","Information","The Software Protection service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:42:33 AM","9/7/2020 3:42:33 AM",,,
+"7036","492e41035f9f","System.Byte[]","381","(0)","0","Information","The Distributed Transaction Coordinator service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:42:03 AM","9/7/2020 3:42:03 AM",,,
+"7036","492e41035f9f","System.Byte[]","380","(0)","0","Information","The Update Orchestrator Service service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:42:02 AM","9/7/2020 3:42:02 AM",,,
+"7036","492e41035f9f","System.Byte[]","379","(0)","0","Information","The Software Protection service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:42:02 AM","9/7/2020 3:42:02 AM",,,
+"1014","492e41035f9f","System.Byte[]","378","(1014)","1014","Warning","Name resolution for the name wpad timed out after none of the configured DNS servers responded.","Microsoft-Windows-DNS-Client","System.String[]","1014","9/7/2020 3:40:08 AM","9/7/2020 3:40:08 AM","NT AUTHORITY\NETWORK SERVICE",,
+"7036","492e41035f9f","System.Byte[]","377","(0)","0","Information","The DiagTrack service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:40:02 AM","9/7/2020 3:40:02 AM",,,
+"7036","492e41035f9f","System.Byte[]","376","(0)","0","Information","The Schedule service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:40:00 AM","9/7/2020 3:40:00 AM",,,
+"7036","492e41035f9f","System.Byte[]","375","(0)","0","Information","The Time Broker service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:40:00 AM","9/7/2020 3:40:00 AM",,,
+"7026","492e41035f9f","System.Byte[]","374","(0)","0","Information","The following boot-start or system-start driver(s) did not load: 
+3ware
+ADP80XX
+ahcache
+amdsata
+amdsbs
+amdxata
+arcsas
+atapi
+bttflt
+cdrom
+HpSAMD
+iaStorAVC
+iaStorV
+intelide
+isapnp
+ItSas35i
+LSI_SAS
+LSI_SAS2i
+LSI_SAS3i
+LSI_SSS
+megasas
+megasas2i
+megasas35i
+megasr
+msisadrv
+MsSecFlt
+mssmbios
+mvumis
+NdisCap
+NetBIOS
+NetBT
+nvdimm
+nvraid
+nvstor
+pciide
+pdc
+percsas2i
+percsas3i
+pmem
+Psched
+Ramdisk
+sbp2port
+scmbus
+SgrmAgent
+SiSRaid2
+SiSRaid4
+SmartSAMD
+stexstor
+storahci
+storflt
+stornvme
+vdrvroot
+volmgrx
+volsnap
+vsmraid
+VSTXRAID
+Wof","Service Control Manager","System.String[]","3221232498","9/7/2020 3:40:00 AM","9/7/2020 3:40:00 AM",,,
+"7036","492e41035f9f","System.Byte[]","373","(0)","0","Information","The iphlpsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:40:00 AM","9/7/2020 3:40:00 AM",,,
+"701","492e41035f9f","System.Byte[]","372","(701)","701","Error","Task Scheduler service failed to start Task Compatibility module. Tasks may not be able to register on previous Window versions. Additional Data: Error Value: 2147942450.","Microsoft-Windows-TaskScheduler","System.String[]","701","9/7/2020 3:40:00 AM","9/7/2020 3:40:00 AM","NT AUTHORITY\SYSTEM",,
+"701","492e41035f9f","System.Byte[]","371","(701)","701","Error","Task Scheduler service failed to start Task Compatibility module. Tasks may not be able to register on previous Window versions. Additional Data: Error Value: 2147942450.","Microsoft-Windows-TaskScheduler","System.String[]","701","9/7/2020 3:40:00 AM","9/7/2020 3:40:00 AM","NT AUTHORITY\SYSTEM",,
+"7036","492e41035f9f","System.Byte[]","370","(0)","0","Information","The Winmgmt service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:59 AM","9/7/2020 3:39:59 AM",,,
+"7036","492e41035f9f","System.Byte[]","369","(0)","0","Information","The WinRM service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:59 AM","9/7/2020 3:39:59 AM",,,
+"7036","492e41035f9f","System.Byte[]","368","(0)","0","Information","The UserManager service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:57 AM","9/7/2020 3:39:57 AM",,,
+"7036","492e41035f9f","System.Byte[]","367","(0)","0","Information","The CryptSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:57 AM","9/7/2020 3:39:57 AM",,,
+"7036","492e41035f9f","System.Byte[]","366","(0)","0","Information","The LanmanWorkstation service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:57 AM","9/7/2020 3:39:57 AM",,,
+"7036","492e41035f9f","System.Byte[]","365","(0)","0","Information","The CoreMessagingRegistrar service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:56 AM","9/7/2020 3:39:56 AM",,,
+"7036","492e41035f9f","System.Byte[]","364","(0)","0","Information","The WinHttpAutoProxySvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:56 AM","9/7/2020 3:39:56 AM",,,
+"7036","492e41035f9f","System.Byte[]","363","(0)","0","Information","The SysMain service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:56 AM","9/7/2020 3:39:56 AM",,,
+"7036","492e41035f9f","System.Byte[]","362","(0)","0","Information","The RemoteRegistry service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"7001","492e41035f9f","System.Byte[]","361","(0)","0","Error","The LanmanServer service depends on the srv2 service which failed to start because of the following error: 
+%%1068","Service Control Manager","System.String[]","3221232473","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"7001","492e41035f9f","System.Byte[]","360","(0)","0","Error","The srv2 service depends on the srvnet service which failed to start because of the following error: 
+%%1077","Service Control Manager","System.String[]","3221232473","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"7036","492e41035f9f","System.Byte[]","359","(0)","0","Information","The SamSs service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"7036","492e41035f9f","System.Byte[]","358","(0)","0","Information","The Dhcp service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"51046","492e41035f9f","System.Byte[]","357","(4)","4","Information","DHCPv6 client service is started","Microsoft-Windows-DHCPv6-Client","System.String[]","51046","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM","NT AUTHORITY\LOCAL SERVICE",,
+"7036","492e41035f9f","System.Byte[]","356","(0)","0","Information","The Dnscache service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"50103","492e41035f9f","System.Byte[]","355","(4)","4","Information","DHCPv4 client registered for shutdown notification","Microsoft-Windows-Dhcp-Client","System.String[]","50103","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM","NT AUTHORITY\LOCAL SERVICE",,
+"50036","492e41035f9f","System.Byte[]","354","(4)","4","Information","DHCPv4 client service is started","Microsoft-Windows-Dhcp-Client","System.String[]","50036","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM","NT AUTHORITY\LOCAL SERVICE",,
+"7036","492e41035f9f","System.Byte[]","353","(0)","0","Information","The SENS service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"7036","492e41035f9f","System.Byte[]","352","(0)","0","Information","The gpsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"10148","492e41035f9f","System.Byte[]","351","(0)","0","Information","The description for Event ID '468900' in Source 'WinRM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:","WinRM","System.String[]","468900","9/7/2020 3:39:59 AM","9/7/2020 3:39:59 AM",,,
+"7036","492e41035f9f","System.Byte[]","350","(0)","0","Information","The EventSystem service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:55 AM","9/7/2020 3:39:55 AM",,,
+"7036","492e41035f9f","System.Byte[]","349","(0)","0","Information","The EventLog service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"7036","492e41035f9f","System.Byte[]","348","(0)","0","Information","The cexecsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"7036","492e41035f9f","System.Byte[]","347","(0)","0","Information","The SystemEventsBroker service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"7036","492e41035f9f","System.Byte[]","346","(0)","0","Information","The nsi service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"7036","492e41035f9f","System.Byte[]","345","(0)","0","Information","The ProfSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"7036","492e41035f9f","System.Byte[]","344","(0)","0","Information","The LSM service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"7036","492e41035f9f","System.Byte[]","343","(0)","0","Information","The RpcSs service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:53 AM","9/7/2020 3:39:53 AM",,,
+"7036","492e41035f9f","System.Byte[]","342","(0)","0","Information","The RpcEptMapper service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:53 AM","9/7/2020 3:39:53 AM",,,
+"7036","492e41035f9f","System.Byte[]","341","(0)","0","Information","The DcomLaunch service entered the running state.","Service Control Manager","System.String[]","1073748860","9/7/2020 3:39:53 AM","9/7/2020 3:39:53 AM",,,
+"16977","492e41035f9f","System.Byte[]","340","(0)","0","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+","Microsoft-Windows-Directory-Services-SAM","System.String[]","16977","9/7/2020 3:39:51 AM","9/7/2020 3:39:51 AM","NT AUTHORITY\SYSTEM",,
+"16962","492e41035f9f","System.Byte[]","339","(0)","0","Information","Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651.","Microsoft-Windows-Directory-Services-SAM","System.String[]","16962","9/7/2020 3:39:51 AM","9/7/2020 3:39:51 AM","NT AUTHORITY\SYSTEM",,
+"6013","492e41035f9f","System.Byte[]","338","(0)","0","Information","The system uptime is 22 seconds.","EventLog","System.String[]","2147489661","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"6005","492e41035f9f","System.Byte[]","337","(0)","0","Information","The Event log service was started.","EventLog","System.String[]","2147489653","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"6009","492e41035f9f","System.Byte[]","336","(0)","0","Information","Microsoft (R) Windows (R) 10.00. 19041  Multiprocessor Free.","EventLog","System.String[]","2147489657","9/7/2020 3:39:54 AM","9/7/2020 3:39:54 AM",,,
+"7036","492e41035f9f","System.Byte[]","335","(0)","0","Information","The Update Orchestrator Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","334","(0)","0","Information","The Cryptographic Services service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","333","(0)","0","Information","The Task Scheduler service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","332","(0)","0","Information","The Windows Remote Management (WS-Management) service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","331","(0)","0","Information","The Windows Event Log service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","330","(0)","0","Information","The State Repository Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","329","(0)","0","Information","The Distributed Transaction Coordinator service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","328","(0)","0","Information","The WinHTTP Web Proxy Auto-Discovery Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","327","(0)","0","Information","The DHCP Client service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"50037","492e41035f9f","System.Byte[]","326","(4)","4","Information","DHCPv4 client service is stopped. ShutDown Flag value is 1","Microsoft-Windows-Dhcp-Client","System.String[]","50037","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM","NT AUTHORITY\LOCAL SERVICE",,
+"51057","492e41035f9f","System.Byte[]","325","(4)","4","Information","DHCPv6 client service stop is almost done.DHCP Context Ref count is 1","Microsoft-Windows-DHCPv6-Client","System.String[]","51057","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM","NT AUTHORITY\LOCAL SERVICE",,
+"51047","492e41035f9f","System.Byte[]","324","(4)","4","Information","DHCPv6 client service is stopped. ShutDown Flag value is 1","Microsoft-Windows-DHCPv6-Client","System.String[]","51047","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM","NT AUTHORITY\LOCAL SERVICE",,
+"50106","492e41035f9f","System.Byte[]","323","(4)","4","Information","DHCPv4 is waiting on DHCPv6 service to stop","Microsoft-Windows-Dhcp-Client","System.String[]","50106","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM","NT AUTHORITY\LOCAL SERVICE",,
+"7036","492e41035f9f","System.Byte[]","322","(0)","0","Information","The User Profile Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","321","(0)","0","Information","The Windows Management Instrumentation service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"50105","492e41035f9f","System.Byte[]","320","(4)","4","Information","DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT","Microsoft-Windows-Dhcp-Client","System.String[]","50105","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM","NT AUTHORITY\LOCAL SERVICE",,
+"50104","492e41035f9f","System.Byte[]","319","(4)","4","Information","DHCPv4 client received shutdown notification","Microsoft-Windows-Dhcp-Client","System.String[]","50104","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM","NT AUTHORITY\LOCAL SERVICE",,
+"7036","492e41035f9f","System.Byte[]","318","(0)","0","Information","The SysMain service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","317","(0)","0","Information","The Connected User Experiences and Telemetry service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","316","(0)","0","Information","The Group Policy Client service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:40:38 PM","9/6/2020 12:40:38 PM",,,
+"1074","492e41035f9f","System.Byte[]","315","(0)","0","Information","The process C:\Windows\system32\cexecsvc.exe (492E41035F9F) has initiated the shutdown of computer 492E41035F9F on behalf of user NT AUTHORITY\SYSTEM for the following reason: Other (Planned)
+ Reason Code: 0x80000000
+ Shutdown Type: shutdown
+ Comment: ","User32","System.String[]","2147484722","9/6/2020 12:40:38 PM","9/6/2020 12:40:38 PM","NT AUTHORITY\SYSTEM",,
+"6006","492e41035f9f","System.Byte[]","314","(0)","0","Information","The Event log service was stopped.","EventLog","System.String[]","2147489654","9/6/2020 12:40:39 PM","9/6/2020 12:40:39 PM",,,
+"7036","492e41035f9f","System.Byte[]","313","(0)","0","Information","The TrustedInstaller service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:39:46 PM","9/6/2020 12:39:46 PM",,,
+"7036","492e41035f9f","System.Byte[]","312","(0)","0","Information","The State Repository Service service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:37:38 PM","9/6/2020 12:37:38 PM",,,
+"7036","492e41035f9f","System.Byte[]","311","(0)","0","Information","The TrustedInstaller service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:37:17 PM","9/6/2020 12:37:17 PM",,,
+"7036","492e41035f9f","System.Byte[]","310","(0)","0","Information","The Software Protection service entered the stopped state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:36:23 PM","9/6/2020 12:36:23 PM",,,
+"7036","492e41035f9f","System.Byte[]","309","(0)","0","Information","The Distributed Transaction Coordinator service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:35:52 PM","9/6/2020 12:35:52 PM",,,
+"7036","492e41035f9f","System.Byte[]","308","(0)","0","Information","The Update Orchestrator Service service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:35:51 PM","9/6/2020 12:35:51 PM",,,
+"7036","492e41035f9f","System.Byte[]","307","(0)","0","Information","The Software Protection service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:35:51 PM","9/6/2020 12:35:51 PM",,,
+"1014","492e41035f9f","System.Byte[]","306","(1014)","1014","Warning","Name resolution for the name wpad timed out after none of the configured DNS servers responded.","Microsoft-Windows-DNS-Client","System.String[]","1014","9/6/2020 12:34:01 PM","9/6/2020 12:34:01 PM","NT AUTHORITY\NETWORK SERVICE",,
+"7036","492e41035f9f","System.Byte[]","305","(0)","0","Information","The DiagTrack service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:53 PM","9/6/2020 12:33:53 PM",,,
+"7036","492e41035f9f","System.Byte[]","304","(0)","0","Information","The WinRM service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","303","(0)","0","Information","The Time Broker service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","302","(0)","0","Information","The Schedule service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7026","492e41035f9f","System.Byte[]","301","(0)","0","Information","The following boot-start or system-start driver(s) did not load: 
+3ware
+ADP80XX
+ahcache
+amdsata
+amdsbs
+amdxata
+arcsas
+atapi
+bttflt
+cdrom
+HpSAMD
+iaStorAVC
+iaStorV
+intelide
+isapnp
+ItSas35i
+LSI_SAS
+LSI_SAS2i
+LSI_SAS3i
+LSI_SSS
+megasas
+megasas2i
+megasas35i
+megasr
+msisadrv
+MsSecFlt
+mssmbios
+mvumis
+NdisCap
+NetBIOS
+NetBT
+nvdimm
+nvraid
+nvstor
+pciide
+pdc
+percsas2i
+percsas3i
+pmem
+Psched
+Ramdisk
+sbp2port
+scmbus
+SgrmAgent
+SiSRaid2
+SiSRaid4
+SmartSAMD
+stexstor
+storahci
+storflt
+stornvme
+vdrvroot
+volmgrx
+volsnap
+vsmraid
+VSTXRAID
+Wof","Service Control Manager","System.String[]","3221232498","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","300","(0)","0","Information","The iphlpsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"701","492e41035f9f","System.Byte[]","299","(701)","701","Error","Task Scheduler service failed to start Task Compatibility module. Tasks may not be able to register on previous Window versions. Additional Data: Error Value: 2147942450.","Microsoft-Windows-TaskScheduler","System.String[]","701","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM","NT AUTHORITY\SYSTEM",,
+"701","492e41035f9f","System.Byte[]","298","(701)","701","Error","Task Scheduler service failed to start Task Compatibility module. Tasks may not be able to register on previous Window versions. Additional Data: Error Value: 2147942450.","Microsoft-Windows-TaskScheduler","System.String[]","701","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM","NT AUTHORITY\SYSTEM",,
+"7036","492e41035f9f","System.Byte[]","297","(0)","0","Information","The WinHttpAutoProxySvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","296","(0)","0","Information","The UserManager service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","295","(0)","0","Information","The CryptSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","294","(0)","0","Information","The SysMain service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","293","(0)","0","Information","The Winmgmt service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","292","(0)","0","Information","The RemoteRegistry service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","291","(0)","0","Information","The CoreMessagingRegistrar service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7001","492e41035f9f","System.Byte[]","290","(0)","0","Error","The LanmanServer service depends on the srv2 service which failed to start because of the following error: 
+%%1068","Service Control Manager","System.String[]","3221232473","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7001","492e41035f9f","System.Byte[]","289","(0)","0","Error","The srv2 service depends on the srvnet service which failed to start because of the following error: 
+%%1077","Service Control Manager","System.String[]","3221232473","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","288","(0)","0","Information","The SamSs service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","287","(0)","0","Information","The LanmanWorkstation service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","286","(0)","0","Information","The Dnscache service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"7036","492e41035f9f","System.Byte[]","285","(0)","0","Information","The Dhcp service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"51046","492e41035f9f","System.Byte[]","284","(4)","4","Information","DHCPv6 client service is started","Microsoft-Windows-DHCPv6-Client","System.String[]","51046","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM","NT AUTHORITY\LOCAL SERVICE",,
+"7036","492e41035f9f","System.Byte[]","283","(0)","0","Information","The SENS service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"50103","492e41035f9f","System.Byte[]","282","(4)","4","Information","DHCPv4 client registered for shutdown notification","Microsoft-Windows-Dhcp-Client","System.String[]","50103","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM","NT AUTHORITY\LOCAL SERVICE",,
+"50036","492e41035f9f","System.Byte[]","281","(4)","4","Information","DHCPv4 client service is started","Microsoft-Windows-Dhcp-Client","System.String[]","50036","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM","NT AUTHORITY\LOCAL SERVICE",,
+"10148","492E41035F9F","System.Byte[]","280","(0)","0","Information","The description for Event ID '468900' in Source 'WinRM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:","WinRM","System.String[]","468900","9/6/2020 12:33:50 PM","9/6/2020 12:33:50 PM",,,
+"6013","492e41035f9f","System.Byte[]","279","(0)","0","Information","The system uptime is 46 seconds.","EventLog","System.String[]","2147489661","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"6005","492e41035f9f","System.Byte[]","278","(0)","0","Information","The Event log service was started.","EventLog","System.String[]","2147489653","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"6009","492e41035f9f","System.Byte[]","277","(0)","0","Information","Microsoft (R) Windows (R) 10.00. 19041  Multiprocessor Free.","EventLog","System.String[]","2147489657","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"6011","492e41035f9f","System.Byte[]","276","(0)","0","Information","The NetBIOS name and DNS host name of this machine have been changed from WIN-4ODLTDU191U to 492E41035F9F.","EventLog","System.String[]","2147489659","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","275","(0)","0","Information","The gpsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","274","(0)","0","Information","The EventSystem service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","273","(0)","0","Information","The EventLog service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","272","(0)","0","Information","The SystemEventsBroker service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","271","(0)","0","Information","The cexecsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","270","(0)","0","Information","The nsi service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","269","(0)","0","Information","The ProfSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","268","(0)","0","Information","The LSM service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","267","(0)","0","Information","The RpcSs service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","266","(0)","0","Information","The RpcEptMapper service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"7036","492e41035f9f","System.Byte[]","265","(0)","0","Information","The DcomLaunch service entered the running state.","Service Control Manager","System.String[]","1073748860","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM",,,
+"16977","492e41035f9f","System.Byte[]","264","(0)","0","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+","Microsoft-Windows-Directory-Services-SAM","System.String[]","16977","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM","NT AUTHORITY\SYSTEM",,
+"16962","492e41035f9f","System.Byte[]","263","(0)","0","Information","Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651.","Microsoft-Windows-Directory-Services-SAM","System.String[]","16962","9/6/2020 12:33:49 PM","9/6/2020 12:33:49 PM","NT AUTHORITY\SYSTEM",,
+"13","492e41035f9f","System.Byte[]","262","(2)","2","Information","The description for Event ID '13' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'2020-08-08T05:37:56.6894248Z'","Microsoft-Windows-Kernel-General","System.String[]","13","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"109","492e41035f9f","System.Byte[]","261","(103)","103","Information","The description for Event ID '109' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'4', '0', '5'","Microsoft-Windows-Kernel-Power","System.String[]","109","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","492e41035f9f","System.Byte[]","260","(0)","0","Information","The Windows Remote Management (WS-Management) service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","492e41035f9f","System.Byte[]","259","(0)","0","Information","The Remote Desktop Services service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","492e41035f9f","System.Byte[]","258","(0)","0","Information","The Cryptographic Services service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","492e41035f9f","System.Byte[]","257","(0)","0","Information","The Task Scheduler service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","492e41035f9f","System.Byte[]","256","(0)","0","Information","The Volume Shadow Copy service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","492e41035f9f","System.Byte[]","255","(0)","0","Information","The Windows Event Log service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","254","(0)","0","Information","The WinHTTP Web Proxy Auto-Discovery Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","253","(0)","0","Information","The DHCP Client service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","252","(0)","0","Information","The State Repository Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"50037","WIN-4ODLTDU191U","System.Byte[]","251","(4)","4","Information","DHCPv4 client service is stopped. ShutDown Flag value is 1","Microsoft-Windows-Dhcp-Client","System.String[]","50037","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"50106","WIN-4ODLTDU191U","System.Byte[]","250","(4)","4","Information","DHCPv4 is waiting on DHCPv6 service to stop","Microsoft-Windows-Dhcp-Client","System.String[]","50106","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","249","(0)","0","Information","The Windows Time service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"51047","WIN-4ODLTDU191U","System.Byte[]","248","(4)","4","Information","DHCPv6 client service is stopped. ShutDown Flag value is 1","Microsoft-Windows-DHCPv6-Client","System.String[]","51047","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","247","(0)","0","Information","The Windows Management Instrumentation service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","246","(0)","0","Information","The Plug and Play service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","245","(0)","0","Information","The User Profile Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","244","(0)","0","Information","The Client License Service (ClipSVC) service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","243","(0)","0","Information","The SysMain service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"1","WIN-4ODLTDU191U","System.Byte[]","242","(5)","5","Information","Possible detection of CVE: 2020-08-08T05:37:56.4279278Z
+Additional Information: 2020-08-08T05:37:56.4209017Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2020-08-08T05:37:56.4279278Z) is detected.
+This Event is raised by a User mode process.
+","Microsoft-Windows-Kernel-General","System.String[]","1","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"24","WIN-4ODLTDU191U","System.Byte[]","241","(11)","11","Information","The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '420', '2', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","24","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"50105","WIN-4ODLTDU191U","System.Byte[]","240","(4)","4","Information","DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT","Microsoft-Windows-Dhcp-Client","System.String[]","50105","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"50104","WIN-4ODLTDU191U","System.Byte[]","239","(4)","4","Information","DHCPv4 client received shutdown notification","Microsoft-Windows-Dhcp-Client","System.String[]","50104","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","238","(0)","0","Information","The Remote Desktop Services UserMode Port Redirector service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","237","(0)","0","Information","The Certificate Propagation service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","236","(0)","0","Information","The App Readiness service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","235","(0)","0","Information","The Hyper-V Volume Shadow Copy Requestor service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","234","(0)","0","Information","The TrustedInstaller service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","233","(0)","0","Information","The Group Policy Client service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","232","(0)","0","Information","The Device Install Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"7002","WIN-4ODLTDU191U","System.Byte[]","231","(1102)","1102","Information","User Logoff Notification for Customer Experience Improvement Program","Microsoft-Windows-Winlogon","System.String[]","7002","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM","",,
+"6006","WIN-4ODLTDU191U","System.Byte[]","230","(0)","0","Information","The Event log service was stopped.","EventLog","System.String[]","2147489654","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"10149","WIN-4ODLTDU191U","System.Byte[]","229","(0)","0","Warning","The description for Event ID '468901' in Source 'WinRM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:","WinRM","System.String[]","468901","8/7/2020 10:37:56 PM","8/7/2020 10:37:56 PM",,,
+"1074","WIN-4ODLTDU191U","System.Byte[]","228","(0)","0","Information","The process C:\Windows\system32\shutdown.exe (WIN-4ODLTDU191U) has initiated the shutdown of computer WIN-4ODLTDU191U on behalf of user WIN-4ODLTDU191U\Administrator for the following reason: No title for this reason could be found
+ Reason Code: 0x800000ff
+ Shutdown Type: shutdown
+ Comment: ","User32","System.String[]","2147484722","8/7/2020 10:37:45 PM","8/7/2020 10:37:45 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","227","(0)","0","Information","The sppsvc service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:37:01 PM","8/7/2020 10:37:01 PM",,,
+"35","WIN-4ODLTDU191U","System.Byte[]","226","(0)","0","Information","The time service is now synchronizing the system time with the time source VM IC Time Synchronization Provider with reference id 1347702102. Current local stratum number is 6.","Microsoft-Windows-Time-Service","System.String[]","35","8/7/2020 10:36:36 PM","8/7/2020 10:36:36 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","225","(0)","0","Information","The Connected User Experiences and Telemetry service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:29 PM","8/7/2020 10:36:29 PM",,,
+"1501","WIN-4ODLTDU191U","System.Byte[]","224","(0)","0","Information","The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy.","Microsoft-Windows-GroupPolicy","System.String[]","1501","8/7/2020 10:36:27 PM","8/7/2020 10:36:27 PM","",,
+"7001","WIN-4ODLTDU191U","System.Byte[]","223","(1101)","1101","Information","User Logon Notification for Customer Experience Improvement Program","Microsoft-Windows-Winlogon","System.String[]","7001","8/7/2020 10:36:26 PM","8/7/2020 10:36:26 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","222","(0)","0","Information","The Delivery Optimization service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:26 PM","8/7/2020 10:36:26 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","221","(0)","0","Information","The Delivery Optimization service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:26 PM","8/7/2020 10:36:26 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","220","(0)","0","Information","The Network Connectivity Assistant service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:26 PM","8/7/2020 10:36:26 PM",,,
+"1500","WIN-4ODLTDU191U","System.Byte[]","219","(0)","0","Information","The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy.","Microsoft-Windows-GroupPolicy","System.String[]","1500","8/7/2020 10:36:26 PM","8/7/2020 10:36:26 PM","",,
+"7040","WIN-4ODLTDU191U","System.Byte[]","218","(0)","0","Information","The start type of the TrustedInstaller service was changed from auto start to demand start.","Service Control Manager","System.String[]","1073748864","8/7/2020 10:36:26 PM","8/7/2020 10:36:26 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","217","(0)","0","Information","The CNG Key Isolation service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:25 PM","8/7/2020 10:36:25 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","216","(0)","0","Information","The Remote Desktop Configuration service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:25 PM","8/7/2020 10:36:25 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","215","(0)","0","Information","The Certificate Propagation service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:25 PM","8/7/2020 10:36:25 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","214","(0)","0","Information","The Remote Desktop Services UserMode Port Redirector service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:25 PM","8/7/2020 10:36:25 PM",,,
+"1056","WIN-4ODLTDU191U","System.Byte[]","213","(0)","0","Information","A new self signed certificate to be used for RD Session Host Server authentication on SSL connections was generated. The name on this certificate is WIN-4ODLTDU191U. The SHA1 hash of the certificate is in the event data.","TermService","System.String[]","3221226528","8/7/2020 10:36:25 PM","8/7/2020 10:36:25 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","212","(0)","0","Information","The Remote Desktop Services service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:25 PM","8/7/2020 10:36:25 PM",,,
+"16","WIN-4ODLTDU191U","System.Byte[]","211","(0)","0","Information","The description for Event ID '16' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'45', '\??\C:\Windows\AppCompat\Programs\Amcache.hve', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","16","8/7/2020 10:36:24 PM","8/7/2020 10:36:24 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","210","(0)","0","Information","The TrustedInstaller service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:22 PM","8/7/2020 10:36:22 PM",,,
+"134","WIN-4ODLTDU191U","System.Byte[]","209","(0)","0","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x8'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)","Microsoft-Windows-Time-Service","System.String[]","134","8/7/2020 10:36:22 PM","8/7/2020 10:36:22 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","208","(0)","0","Information","The DiagTrack service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:21 PM","8/7/2020 10:36:21 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","207","(0)","0","Information","The State Repository Service service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:21 PM","8/7/2020 10:36:21 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","206","(0)","0","Information","The WinRM service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:21 PM","8/7/2020 10:36:21 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","205","(0)","0","Information","The LanmanServer service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","204","(0)","0","Information","The iphlpsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","203","(0)","0","Information","The WinHttpAutoProxySvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","202","(0)","0","Information","The mpssvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","201","(0)","0","Information","The Winmgmt service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","200","(0)","0","Information","The SysMain service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","199","(0)","0","Information","The RemoteRegistry service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","198","(0)","0","Information","The cexecsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","197","(0)","0","Information","The SamSs service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","196","(0)","0","Information","The UserManager service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","195","(0)","0","Information","The BFE service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","194","(0)","0","Information","The Schedule service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","193","(0)","0","Information","The netprofm service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","192","(0)","0","Information","The VSS service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","191","(0)","0","Information","The TimeBrokerSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","190","(0)","0","Information","The LanmanWorkstation service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"134","WIN-4ODLTDU191U","System.Byte[]","189","(0)","0","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x8'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)","Microsoft-Windows-Time-Service","System.String[]","134","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM","",,
+"10148","WIN-4ODLTDU191U","System.Byte[]","188","(0)","0","Information","The description for Event ID '468900' in Source 'WinRM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:","WinRM","System.String[]","468900","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","187","(0)","0","Information","The NlaSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","186","(0)","0","Information","The Dnscache service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","185","(0)","0","Information","The AppReadiness service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","184","(0)","0","Information","The SENS service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:20 PM","8/7/2020 10:36:20 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","183","(0)","0","Information","The vmicheartbeat service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","182","(0)","0","Information","The Dhcp service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"51046","WIN-4ODLTDU191U","System.Byte[]","181","(4)","4","Information","DHCPv6 client service is started","Microsoft-Windows-DHCPv6-Client","System.String[]","51046","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","180","(0)","0","Information","The EventSystem service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","179","(0)","0","Information","The gpsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","178","(0)","0","Information","The vmicvss service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","177","(0)","0","Information","The vmicrdv service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","176","(0)","0","Information","The vmicshutdown service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","175","(0)","0","Information","The vmictimesync service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"50103","WIN-4ODLTDU191U","System.Byte[]","174","(4)","4","Information","DHCPv4 client registered for shutdown notification","Microsoft-Windows-Dhcp-Client","System.String[]","50103","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"50036","WIN-4ODLTDU191U","System.Byte[]","173","(4)","4","Information","DHCPv4 client service is started","Microsoft-Windows-Dhcp-Client","System.String[]","50036","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","172","(0)","0","Information","The vmickvpexchange service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","171","(0)","0","Information","The nsi service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","170","(0)","0","Information","The ClipSVC service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","169","(0)","0","Information","The ProfSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"6","WIN-4ODLTDU191U","System.Byte[]","168","(0)","0","Information","File System Filter 'storqosflt' (10.0, 2007-04-09T11:08:30.0000000Z) has successfully loaded and registered with Filter Manager.","Microsoft-Windows-FilterManager","System.String[]","6","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","167","(0)","0","Information","The EventLog service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","166","(0)","0","Information","The W32Time service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","165","(0)","0","Information","The CryptSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"16977","WIN-4ODLTDU191U","System.Byte[]","164","(0)","0","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+","Microsoft-Windows-Directory-Services-SAM","System.String[]","16977","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"16977","WIN-4ODLTDU191U","System.Byte[]","163","(0)","0","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+","Microsoft-Windows-Directory-Services-SAM","System.String[]","16977","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"1","WIN-4ODLTDU191U","System.Byte[]","162","(5)","5","Information","Possible detection of CVE: 2020-08-08T05:36:19.1530000Z
+Additional Information: 2020-08-08T05:36:19.1696303Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2020-08-08T05:36:19.1530000Z) is detected.
+This Event is raised by a User mode process.
+","Microsoft-Windows-Kernel-General","System.String[]","1","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"24","WIN-4ODLTDU191U","System.Byte[]","161","(11)","11","Information","The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '420', '2', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","24","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"1","WIN-4ODLTDU191U","System.Byte[]","160","(5)","5","Information","Possible detection of CVE: 2020-08-08T05:36:19.1538402Z
+Additional Information: 2020-08-08T05:36:19.1538402Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2020-08-08T05:36:19.1538402Z) is detected.
+This Event is raised by a User mode process.
+","Microsoft-Windows-Kernel-General","System.String[]","1","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"24","WIN-4ODLTDU191U","System.Byte[]","159","(11)","11","Information","The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '420', '2', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","24","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","158","(0)","0","Information","The CoreMessagingRegistrar service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:14 PM","8/7/2020 10:36:14 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","157","(0)","0","Information","The NetSetupSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:14 PM","8/7/2020 10:36:14 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","156","(0)","0","Information","The DeviceInstall service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:14 PM","8/7/2020 10:36:14 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","155","(0)","0","Information","The SystemEventsBroker service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:14 PM","8/7/2020 10:36:14 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","154","(0)","0","Information","The sppsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:14 PM","8/7/2020 10:36:14 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","153","(0)","0","Information","The LSM service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","152","(0)","0","Information","The RpcSs service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","151","(0)","0","Information","The DcomLaunch service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","150","(0)","0","Information","The RpcEptMapper service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","149","(0)","0","Information","The Power service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","148","(0)","0","Information","The PlugPlay service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM",,,
+"16977","WIN-4ODLTDU191U","System.Byte[]","147","(0)","0","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+","Microsoft-Windows-Directory-Services-SAM","System.String[]","16977","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"16962","WIN-4ODLTDU191U","System.Byte[]","146","(0)","0","Information","Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651.","Microsoft-Windows-Directory-Services-SAM","System.String[]","16962","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"14","WIN-4ODLTDU191U","System.Byte[]","145","(0)","0","Information","Credential Guard configuration: 0, 0","Microsoft-Windows-Wininit","System.String[]","14","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"24","WIN-4ODLTDU191U","System.Byte[]","144","(11)","11","Information","The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '420', '2', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","24","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"11","WIN-4ODLTDU191U","System.Byte[]","143","(1003)","1003","Information","The description for Event ID '11' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'33', 'Microsoft Hyper-V Network Adapter'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","11","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"3","WIN-4ODLTDU191U","System.Byte[]","142","(1002)","1002","Information","The description for Event ID '3' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'33', 'Microsoft Hyper-V Network Adapter'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","3","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"13","WIN-4ODLTDU191U","System.Byte[]","141","(1003)","1003","Information","The description for Event ID '13' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'33', 'Microsoft Hyper-V Network Adapter'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","13","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM",,,
+"55","WIN-4ODLTDU191U","System.Byte[]","140","(47)","47","Information","Hyper-V logical processor 1 exposes the following power management capabilities:
+
+Idle state type: 1 (1 state(s))
+
+Performance state type: 0
+Nominal Frequency (MHz): 2300
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100","Microsoft-Windows-Kernel-Processor-Power","System.String[]","55","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"55","WIN-4ODLTDU191U","System.Byte[]","139","(47)","47","Information","Hyper-V logical processor 0 exposes the following power management capabilities:
+
+Idle state type: 1 (1 state(s))
+
+Performance state type: 0
+Nominal Frequency (MHz): 2300
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100","Microsoft-Windows-Kernel-Processor-Power","System.String[]","55","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"1","WIN-4ODLTDU191U","System.Byte[]","138","(1001)","1001","Information","The description for Event ID '1' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'3', '6.1', '0'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","1","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"172","WIN-4ODLTDU191U","System.Byte[]","137","(203)","203","Information","The description for Event ID '172' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'2', '6'","Microsoft-Windows-Kernel-Power","System.String[]","172","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"6","WIN-4ODLTDU191U","System.Byte[]","136","(0)","0","Information","File System Filter 'npsvctrig' (10.0, 2025-01-05T19:41:12.0000000Z) has successfully loaded and registered with Filter Manager.","Microsoft-Windows-FilterManager","System.String[]","6","8/7/2020 10:36:13 PM","8/7/2020 10:36:13 PM","",,
+"98","WIN-4ODLTDU191U","System.Byte[]","135","(0)","0","Information","The description for Event ID '98' in Source 'Microsoft-Windows-Ntfs' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'C:', '\Device\HarddiskVolume1', '0'","Microsoft-Windows-Ntfs","System.String[]","98","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"6","WIN-4ODLTDU191U","System.Byte[]","134","(0)","0","Information","File System Filter 'Wof' (10.0, 2050-10-18T06:21:08.0000000Z) has successfully loaded and registered with Filter Manager.","Microsoft-Windows-FilterManager","System.String[]","6","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"16","WIN-4ODLTDU191U","System.Byte[]","133","(0)","0","Information","The iommu fault reporting has been initialized.","Microsoft-Windows-HAL","System.String[]","16","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"20","WIN-4ODLTDU191U","System.Byte[]","132","(6)","6","Information","The description for Event ID '20' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', 'true', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","20","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"32","WIN-4ODLTDU191U","System.Byte[]","131","(58)","58","Information","The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'","Microsoft-Windows-Kernel-Boot","System.String[]","32","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"18","WIN-4ODLTDU191U","System.Byte[]","130","(57)","57","Information","The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'","Microsoft-Windows-Kernel-Boot","System.String[]","18","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"27","WIN-4ODLTDU191U","System.Byte[]","129","(33)","33","Information","The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', ' NOEXECUTE=OPTOUT'","Microsoft-Windows-Kernel-Boot","System.String[]","27","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"25","WIN-4ODLTDU191U","System.Byte[]","128","(32)","32","Information","The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'","Microsoft-Windows-Kernel-Boot","System.String[]","25","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"153","WIN-4ODLTDU191U","System.Byte[]","127","(62)","62","Information","The description for Event ID '153' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '0', '0'","Microsoft-Windows-Kernel-Boot","System.String[]","153","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"12","WIN-4ODLTDU191U","System.Byte[]","126","(1)","1","Information","The description for Event ID '12' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'10', '0', '19041', '450', '0', '0', '2020-08-08T05:36:12.5000000Z'","Microsoft-Windows-Kernel-General","System.String[]","12","8/7/2020 10:36:12 PM","8/7/2020 10:36:12 PM","",,
+"13","WIN-4ODLTDU191U","System.Byte[]","125","(2)","2","Information","The description for Event ID '13' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'2020-08-08T05:36:07.2329314Z'","Microsoft-Windows-Kernel-General","System.String[]","13","8/7/2020 10:36:07 PM","8/7/2020 10:36:07 PM",,,
+"109","WIN-4ODLTDU191U","System.Byte[]","124","(103)","103","Information","The description for Event ID '109' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'5', '0', '5'","Microsoft-Windows-Kernel-Power","System.String[]","109","8/7/2020 10:36:07 PM","8/7/2020 10:36:07 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","123","(0)","0","Information","The Windows Remote Management (WS-Management) service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:07 PM","8/7/2020 10:36:07 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","122","(0)","0","Information","The Task Scheduler service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","121","(0)","0","Information","The Windows Management Instrumentation service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","120","(0)","0","Information","The Windows Event Log service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","119","(0)","0","Information","The Software Protection service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"6013","WIN-4ODLTDU191U","System.Byte[]","118","(0)","0","Information","The system uptime is 7 seconds.","EventLog","System.String[]","2147489661","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"6005","WIN-4ODLTDU191U","System.Byte[]","117","(0)","0","Information","The Event log service was started.","EventLog","System.String[]","2147489653","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"6009","WIN-4ODLTDU191U","System.Byte[]","116","(0)","0","Information","Microsoft (R) Windows (R) 10.00. 19041  Multiprocessor Free.","EventLog","System.String[]","2147489657","8/7/2020 10:36:19 PM","8/7/2020 10:36:19 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","115","(0)","0","Information","The Volume Shadow Copy service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","114","(0)","0","Information","The WinHTTP Web Proxy Auto-Discovery Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","113","(0)","0","Information","The DHCP Client service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"50037","WIN-4ODLTDU191U","System.Byte[]","112","(4)","4","Information","DHCPv4 client service is stopped. ShutDown Flag value is 1","Microsoft-Windows-Dhcp-Client","System.String[]","50037","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM","",,
+"50106","WIN-4ODLTDU191U","System.Byte[]","111","(4)","4","Information","DHCPv4 is waiting on DHCPv6 service to stop","Microsoft-Windows-Dhcp-Client","System.String[]","50106","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM","",,
+"51047","WIN-4ODLTDU191U","System.Byte[]","110","(4)","4","Information","DHCPv6 client service is stopped. ShutDown Flag value is 1","Microsoft-Windows-DHCPv6-Client","System.String[]","51047","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","109","(0)","0","Information","The User Profile Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","108","(0)","0","Information","The Client License Service (ClipSVC) service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","107","(0)","0","Information","The SysMain service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","106","(0)","0","Information","The Cryptographic Services service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","105","(0)","0","Information","The Plug and Play service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"50105","WIN-4ODLTDU191U","System.Byte[]","104","(4)","4","Information","DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT","Microsoft-Windows-Dhcp-Client","System.String[]","50105","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM","",,
+"50104","WIN-4ODLTDU191U","System.Byte[]","103","(4)","4","Information","DHCPv4 client received shutdown notification","Microsoft-Windows-Dhcp-Client","System.String[]","50104","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","102","(0)","0","Information","The Windows Time service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","101","(0)","0","Information","The Connected User Experiences and Telemetry service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","100","(0)","0","Information","The Hyper-V Volume Shadow Copy Requestor service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","99","(0)","0","Information","The TrustedInstaller service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","98","(0)","0","Information","The Group Policy Client service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","97","(0)","0","Information","The Device Install Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"1074","WIN-4ODLTDU191U","System.Byte[]","96","(0)","0","Information","The process C:\Windows\system32\winlogon.exe (MINWINPC) has initiated the restart of computer WIN-4ODLTDU191U on behalf of user NT AUTHORITY\SYSTEM for the following reason: Operating System: Upgrade (Planned)
+ Reason Code: 0x80020003
+ Shutdown Type: restart
+ Comment: ","User32","System.String[]","2147484722","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM","",,
+"2004","WIN-4ODLTDU191U","System.Byte[]","95","(4000)","4000","Information","Successfully logged OS information","Microsoft-Windows-Setup","System.String[]","2004","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM","",,
+"6006","WIN-4ODLTDU191U","System.Byte[]","94","(0)","0","Information","The Event log service was stopped.","EventLog","System.String[]","2147489654","8/7/2020 10:36:06 PM","8/7/2020 10:36:06 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","93","(0)","0","Information","The TrustedInstaller service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:02 PM","8/7/2020 10:36:02 PM",,,
+"134","WIN-4ODLTDU191U","System.Byte[]","92","(0)","0","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x8'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)","Microsoft-Windows-Time-Service","System.String[]","134","8/7/2020 10:36:01 PM","8/7/2020 10:36:01 PM","",,
+"2","WIN-4ODLTDU191U","System.Byte[]","91","(0)","0","Information","While validating that \Device\Serial3 was really a serial port, a fifo was detected. The fifo will be used.","Serial","System.String[]","1074135042","8/7/2020 10:36:01 PM","8/7/2020 10:36:01 PM",,,
+"20003","WIN-4ODLTDU191U","System.Byte[]","90","(7005)","7005","Information","Driver Management has concluded the process to add Service Serenum for Device Instance ID ACPI\PNP0501\1 with the following status: 0.","Microsoft-Windows-UserPnp","System.String[]","20003","8/7/2020 10:36:01 PM","8/7/2020 10:36:01 PM","",,
+"20003","WIN-4ODLTDU191U","System.Byte[]","89","(7005)","7005","Information","Driver Management has concluded the process to add Service Serial for Device Instance ID ACPI\PNP0501\1 with the following status: 0.","Microsoft-Windows-UserPnp","System.String[]","20003","8/7/2020 10:36:01 PM","8/7/2020 10:36:01 PM","",,
+"2","WIN-4ODLTDU191U","System.Byte[]","88","(0)","0","Information","While validating that \Device\Serial2 was really a serial port, a fifo was detected. The fifo will be used.","Serial","System.String[]","1074135042","8/7/2020 10:36:01 PM","8/7/2020 10:36:01 PM",,,
+"20003","WIN-4ODLTDU191U","System.Byte[]","87","(7005)","7005","Information","Driver Management has concluded the process to add Service Serenum for Device Instance ID ACPI\PNP0501\2 with the following status: 0.","Microsoft-Windows-UserPnp","System.String[]","20003","8/7/2020 10:36:01 PM","8/7/2020 10:36:01 PM","",,
+"20003","WIN-4ODLTDU191U","System.Byte[]","86","(7005)","7005","Information","Driver Management has concluded the process to add Service Serial for Device Instance ID ACPI\PNP0501\2 with the following status: 0.","Microsoft-Windows-UserPnp","System.String[]","20003","8/7/2020 10:36:01 PM","8/7/2020 10:36:01 PM","",,
+"225","WIN-4ODLTDU191U","System.Byte[]","85","(223)","223","Warning","The application \Device\HarddiskVolume1\Windows\System32\svchost.exe with process id 1196 stopped the removal or ejection for the device PCI\VEN_8086&DEV_7110&SUBSYS_00001414&REV_01\3&267a616a&0&38.","Microsoft-Windows-Kernel-PnP","System.String[]","225","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM","",,
+"225","WIN-4ODLTDU191U","System.Byte[]","84","(223)","223","Warning","The application \Device\HarddiskVolume1\Windows\System32\svchost.exe with process id 1156 stopped the removal or ejection for the device PCI\VEN_8086&DEV_7110&SUBSYS_00001414&REV_01\3&267a616a&0&38.","Microsoft-Windows-Kernel-PnP","System.String[]","225","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM","",,
+"225","WIN-4ODLTDU191U","System.Byte[]","83","(223)","223","Warning","The application \Device\HarddiskVolume1\Windows\System32\svchost.exe with process id 1132 stopped the removal or ejection for the device PCI\VEN_8086&DEV_7110&SUBSYS_00001414&REV_01\3&267a616a&0&38.","Microsoft-Windows-Kernel-PnP","System.String[]","225","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","82","(0)","0","Information","The DiagTrack service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","81","(0)","0","Information","The WinRM service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","80","(0)","0","Information","The LanmanServer service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"10148","WIN-4ODLTDU191U","System.Byte[]","79","(0)","0","Information","The description for Event ID '468900' in Source 'WinRM' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:","WinRM","System.String[]","468900","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"134","WIN-4ODLTDU191U","System.Byte[]","78","(0)","0","Warning","NtpClient was unable to set a manual peer to use as a time source because of DNS resolution error on 'time.windows.com,0x8'. NtpClient will try again in 15 minutes and double the reattempt interval thereafter. The error was: No such host is known. (0x80072AF9)","Microsoft-Windows-Time-Service","System.String[]","134","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","77","(0)","0","Information","The NlaSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","76","(0)","0","Information","The iphlpsvc service entered the stopped state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","75","(0)","0","Information","The W32Time service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","74","(0)","0","Information","The Winmgmt service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","73","(0)","0","Information","The WinHttpAutoProxySvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","72","(0)","0","Information","The CryptSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","71","(0)","0","Information","The cexecsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","70","(0)","0","Information","The mpssvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","69","(0)","0","Information","The RemoteRegistry service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","68","(0)","0","Information","The SysMain service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","67","(0)","0","Information","The SamSs service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","66","(0)","0","Information","The UserManager service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","65","(0)","0","Information","The BFE service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","64","(0)","0","Information","The Schedule service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","63","(0)","0","Information","The TimeBrokerSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","62","(0)","0","Information","The LanmanWorkstation service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","61","(0)","0","Information","The Dnscache service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","60","(0)","0","Information","The Dhcp service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"51046","WIN-4ODLTDU191U","System.Byte[]","59","(4)","4","Information","DHCPv6 client service is started","Microsoft-Windows-DHCPv6-Client","System.String[]","51046","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","58","(0)","0","Information","The VSS service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"50103","WIN-4ODLTDU191U","System.Byte[]","57","(4)","4","Information","DHCPv4 client registered for shutdown notification","Microsoft-Windows-Dhcp-Client","System.String[]","50103","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM","",,
+"50036","WIN-4ODLTDU191U","System.Byte[]","56","(4)","4","Information","DHCPv4 client service is started","Microsoft-Windows-Dhcp-Client","System.String[]","50036","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","55","(0)","0","Information","The nsi service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","54","(0)","0","Information","The SENS service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","53","(0)","0","Information","The EventSystem service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","52","(0)","0","Information","The ProfSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","51","(0)","0","Information","The gpsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","50","(0)","0","Information","The vmicheartbeat service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","49","(0)","0","Information","The EventLog service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","48","(0)","0","Information","The vmicrdv service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","47","(0)","0","Information","The vmicvss service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"1","WIN-4ODLTDU191U","System.Byte[]","46","(5)","5","Information","Possible detection of CVE: 2020-08-08T05:35:59.8190000Z
+Additional Information: 2020-08-08T05:35:59.0502573Z
+
+This Event is generated when an attempt to exploit a known vulnerability (2020-08-08T05:35:59.8190000Z) is detected.
+This Event is raised by a User mode process.
+","Microsoft-Windows-Kernel-General","System.String[]","1","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM","",,
+"24","WIN-4ODLTDU191U","System.Byte[]","45","(11)","11","Information","The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '420', '2', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","24","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","44","(0)","0","Information","The vmictimesync service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","43","(0)","0","Information","The vmickvpexchange service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","42","(0)","0","Information","The vmicshutdown service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"6","WIN-4ODLTDU191U","System.Byte[]","41","(0)","0","Information","File System Filter 'storqosflt' (10.0, 2007-04-09T11:08:30.0000000Z) has successfully loaded and registered with Filter Manager.","Microsoft-Windows-FilterManager","System.String[]","6","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM","",,
+"16977","WIN-4ODLTDU191U","System.Byte[]","40","(0)","0","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+","Microsoft-Windows-Directory-Services-SAM","System.String[]","16977","8/7/2020 10:35:58 PM","8/7/2020 10:35:58 PM","",,
+"3261","WIN-4ODLTDU191U","System.Byte[]","39","(0)","0","Information","This computer has been successfully joined to workgroup 'WORKGROUP'.","Workstation","System.String[]","3261","8/7/2020 10:36:00 PM","8/7/2020 10:36:00 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","38","(0)","0","Information","The ClipSVC service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:55 PM","8/7/2020 10:35:55 PM",,,
+"11","WIN-4ODLTDU191U","System.Byte[]","37","(1003)","1003","Information","The description for Event ID '11' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'33', 'Microsoft Hyper-V Network Adapter'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","11","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM","",,
+"3","WIN-4ODLTDU191U","System.Byte[]","36","(1002)","1002","Information","The description for Event ID '3' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'33', 'Microsoft Hyper-V Network Adapter'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","3","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM","",,
+"13","WIN-4ODLTDU191U","System.Byte[]","35","(1003)","1003","Information","The description for Event ID '13' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'33', 'Microsoft Hyper-V Network Adapter'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","13","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"1","WIN-4ODLTDU191U","System.Byte[]","34","(1001)","1001","Information","The description for Event ID '1' in Source 'Microsoft-Windows-Hyper-V-Netvsc' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'3', '6.1', '0'","Microsoft-Windows-Hyper-V-Netvsc","System.String[]","1","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM","",,
+"7036","WIN-4ODLTDU191U","System.Byte[]","33","(0)","0","Information","The CoreMessagingRegistrar service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","32","(0)","0","Information","The NetSetupSvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","31","(0)","0","Information","The DeviceInstall service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","30","(0)","0","Information","The SystemEventsBroker service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","29","(0)","0","Information","The sppsvc service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","28","(0)","0","Information","The LSM service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","27","(0)","0","Information","The RpcSs service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","26","(0)","0","Information","The RpcEptMapper service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","25","(0)","0","Information","The DcomLaunch service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","24","(0)","0","Information","The Power service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"7036","WIN-4ODLTDU191U","System.Byte[]","23","(0)","0","Information","The PlugPlay service entered the running state.","Service Control Manager","System.String[]","1073748860","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM",,,
+"16977","WIN-4ODLTDU191U","System.Byte[]","22","(0)","0","Information","The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+","Microsoft-Windows-Directory-Services-SAM","System.String[]","16977","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM","",,
+"16962","WIN-4ODLTDU191U","System.Byte[]","21","(0)","0","Information","Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651.","Microsoft-Windows-Directory-Services-SAM","System.String[]","16962","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM","",,
+"14","WIN-4ODLTDU191U","System.Byte[]","20","(0)","0","Information","Credential Guard configuration: 0, 0","Microsoft-Windows-Wininit","System.String[]","14","8/7/2020 10:35:54 PM","8/7/2020 10:35:54 PM","",,
+"24","WIN-4ODLTDU191U","System.Byte[]","19","(11)","11","Information","The description for Event ID '24' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '420', '2', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","24","8/7/2020 10:35:50 PM","8/7/2020 10:35:50 PM","",,
+"55","WIN-4ODLTDU191U","System.Byte[]","18","(47)","47","Information","Hyper-V logical processor 1 exposes the following power management capabilities:
+
+Idle state type: 1 (1 state(s))
+
+Performance state type: 0
+Nominal Frequency (MHz): 2300
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100","Microsoft-Windows-Kernel-Processor-Power","System.String[]","55","8/7/2020 10:35:50 PM","8/7/2020 10:35:50 PM","",,
+"55","WIN-4ODLTDU191U","System.Byte[]","17","(47)","47","Information","Hyper-V logical processor 0 exposes the following power management capabilities:
+
+Idle state type: 1 (1 state(s))
+
+Performance state type: 0
+Nominal Frequency (MHz): 2300
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100","Microsoft-Windows-Kernel-Processor-Power","System.String[]","55","8/7/2020 10:35:50 PM","8/7/2020 10:35:50 PM","",,
+"2","WIN-4ODLTDU191U","System.Byte[]","16","(0)","0","Information","While validating that \Device\Serial1 was really a serial port, a fifo was detected. The fifo will be used.","Serial","System.String[]","1074135042","8/7/2020 10:35:50 PM","8/7/2020 10:35:50 PM",,,
+"2","WIN-4ODLTDU191U","System.Byte[]","15","(0)","0","Information","While validating that \Device\Serial0 was really a serial port, a fifo was detected. The fifo will be used.","Serial","System.String[]","1074135042","8/7/2020 10:35:50 PM","8/7/2020 10:35:50 PM",,,
+"172","WIN-4ODLTDU191U","System.Byte[]","14","(203)","203","Information","The description for Event ID '172' in Source 'Microsoft-Windows-Kernel-Power' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'2', '6'","Microsoft-Windows-Kernel-Power","System.String[]","172","8/7/2020 10:35:50 PM","8/7/2020 10:35:50 PM","",,
+"6","WIN-4ODLTDU191U","System.Byte[]","13","(0)","0","Information","File System Filter 'npsvctrig' (10.0, 2025-01-05T19:41:12.0000000Z) has successfully loaded and registered with Filter Manager.","Microsoft-Windows-FilterManager","System.String[]","6","8/7/2020 10:35:50 PM","8/7/2020 10:35:50 PM","",,
+"98","WIN-4ODLTDU191U","System.Byte[]","12","(0)","0","Information","The description for Event ID '98' in Source 'Microsoft-Windows-Ntfs' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'C:', '\Device\HarddiskVolume1', '0'","Microsoft-Windows-Ntfs","System.String[]","98","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"6","WIN-4ODLTDU191U","System.Byte[]","11","(0)","0","Information","File System Filter 'Wof' (10.0, 2050-10-18T06:21:08.0000000Z) has successfully loaded and registered with Filter Manager.","Microsoft-Windows-FilterManager","System.String[]","6","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"16","WIN-4ODLTDU191U","System.Byte[]","10","(0)","0","Information","The iommu fault reporting has been initialized.","Microsoft-Windows-HAL","System.String[]","16","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"20","WIN-4ODLTDU191U","System.Byte[]","9","(6)","6","Information","The description for Event ID '20' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', 'true', '0', '0'","Microsoft-Windows-Kernel-General","System.String[]","20","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"32","WIN-4ODLTDU191U","System.Byte[]","8","(58)","58","Information","The description for Event ID '32' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'","Microsoft-Windows-Kernel-Boot","System.String[]","32","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"18","WIN-4ODLTDU191U","System.Byte[]","7","(57)","57","Information","The description for Event ID '18' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'1'","Microsoft-Windows-Kernel-Boot","System.String[]","18","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"27","WIN-4ODLTDU191U","System.Byte[]","6","(33)","33","Information","The description for Event ID '27' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', ' NOEXECUTE=OPTOUT'","Microsoft-Windows-Kernel-Boot","System.String[]","27","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"25","WIN-4ODLTDU191U","System.Byte[]","5","(32)","32","Information","The description for Event ID '25' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0'","Microsoft-Windows-Kernel-Boot","System.String[]","25","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"153","WIN-4ODLTDU191U","System.Byte[]","4","(62)","62","Information","The description for Event ID '153' in Source 'Microsoft-Windows-Kernel-Boot' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'0', '0', '0'","Microsoft-Windows-Kernel-Boot","System.String[]","153","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"12","WIN-4ODLTDU191U","System.Byte[]","3","(1)","1","Information","The description for Event ID '12' in Source 'Microsoft-Windows-Kernel-General' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'10', '0', '19041', '450', '0', '0', '2020-08-08T05:35:49.5000000Z'","Microsoft-Windows-Kernel-General","System.String[]","12","8/7/2020 10:35:49 PM","8/7/2020 10:35:49 PM","",,
+"6005","WIN-4ODLTDU191U","System.Byte[]","2","(0)","0","Information","The Event log service was started.","EventLog","System.String[]","2147489653","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,
+"6009","WIN-4ODLTDU191U","System.Byte[]","1","(0)","0","Information","Microsoft (R) Windows (R) 10.00. 19041  Multiprocessor Free.","EventLog","System.String[]","2147489657","8/7/2020 10:35:59 PM","8/7/2020 10:35:59 PM",,,

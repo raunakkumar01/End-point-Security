@@ -1,0 +1,1 @@
+copy C:\inetpub\logs\LogFiles\FTPSVC2\*.log "C:\vol101\logs\ftp\"

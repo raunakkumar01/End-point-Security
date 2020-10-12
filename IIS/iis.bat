@@ -1,0 +1,1 @@
+copy C:\inetpub\logs\LogFiles\W3SVC1\*.log "C:\vol101\logs\iis\"

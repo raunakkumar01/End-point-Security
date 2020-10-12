@@ -1,0 +1,1 @@
+powershell " Get-WinEvent -ProviderName Microsoft-Windows-RemoteDesktopServices-RDPCOreTS | Export-Csv -Path 'C:\vol101\logs\rdp.csv' "

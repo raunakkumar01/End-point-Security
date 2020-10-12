@@ -1,0 +1,1 @@
+copy C:\OpenSSH-Win64\logs\sshd.log "C:\vol101\logs\ssh\sshd.log"

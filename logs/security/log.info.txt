@@ -1,0 +1,2 @@
+%{NUMBER:EventID} %{STRING:MachineName} %{STRING:Data} %{NUMBER:Index} %{NUMBER:Category} %{NUMBER:CategoryNumber} %{STRING:EntryType} %{STRING:Message} %{STRING:Source} %{STRING:ReplacementStrings} %{NUMBER:InstanceId} %{TIMESTAMP:TimeGenerated} %{TIMESTAMP:TimeWritten} %{USER:UserName} %{STRING:Site} %{STRING:Container}
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"

@@ -1,0 +1,1 @@
+%{DATE:date} %{TIME:time} %{IPORTHOST:c-ip} %{USER:cs-username} %{IPORTHOST:s-ip} %{NUMBER:s-port} %{WORD:cs-method} %{STRING:cs-uri-stem} %{NUMBER:sc-status} %{NUMBER:sc-win32-status} %{NUMBER:sc-substatus} %{STRING:x-session} %{STRING:x-fullpath}

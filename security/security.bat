@@ -1,0 +1,1 @@
+powershell " Get-EventLog Security | Export-Csv -LiteralPath 'C:\vol101\logs\security.csv' "

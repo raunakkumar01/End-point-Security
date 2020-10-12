@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-09-07 15:05:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-09-07 15:05:00 192.168.246.238 GET / - 80 - 192.168.43.181 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.102+Safari/537.36+Edge/18.19041 - 200 0 0 2728
+2020-09-07 15:05:00 192.168.246.238 GET /favicon.ico - 80 - 192.168.43.181 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.102+Safari/537.36+Edge/18.19041 - 404 0 2 27
+2020-09-07 15:05:31 192.168.246.238 GET /favicon.ico - 80 - 192.168.43.181 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.102+Safari/537.36+Edge/18.19041 - 404 0 2 9
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2020-09-07 15:14:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2020-09-07 15:14:37 192.168.244.63 GET / - 80 - 192.168.240.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 - 200 0 0 590
+2020-09-07 15:14:37 192.168.244.63 GET /favicon.ico - 80 - 192.168.240.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/85.0.4183.83+Safari/537.36 http://192.168.244.63/ 404 0 2 63
